@@ -1,0 +1,25 @@
+<section [class.sidenav]="isExpanded">
+  <mat-nav-list>
+    <ng-container *ngFor="let item of config.items">
+      <ng-container [ngSwitch]="item.type">
+        <ng-container *ngSwitchCase="'link'" [ngTemplateOutlet]="link" [ngTemplateOutletContext]="{ $implicit: item }">
+        </ng-container>
+        <ng-container *ngSwitchCase="'title'" [ngTemplateOutlet]="title"
+          [ngTemplateOutletContext]="{ $implicit: item }">
+        </ng-container>
+      </ng-container>
+    </ng-container>
+  </mat-nav-list>
+</section>
+
+<ng-template #link let-item>
+  <a mat-list-item routerLinkActive="active-link" class="sidenav-item" routerLink="{{ item.link }}">
+    <mat-icon mat-list-icon [matTooltip]="!isExpanded ? item.label : ''" matTooltipPosition="right">
+      {{ item.icon }}
+    </mat-icon>
+    <span *ngIf="isExpanded" class="label">{{ item.label }}</span>
+  </a>
+</ng-template>
+<ng-template #title let-item>
+  <mat-list-item *ngIf="isExpanded" class="text-center"><b>{{ item.label }}</b></mat-list-item>
+</ng-template>

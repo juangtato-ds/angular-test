@@ -1,0 +1,40 @@
+<div class="sidenav-layout">
+  <mat-toolbar class="sidenav-toolbar" color="primary">
+    <button mat-icon-button aria-label="Toggle navigation menu" (click)="toggleSide()">
+      <mat-icon>
+        @if (sideOpened()) {
+        menu_open
+        } @else {
+        menu
+        }
+      </mat-icon>
+    </button>
+
+    <span>Angular Test</span>
+    <span class="spacer"></span>
+    <button mat-icon-button routerLink="/">
+      <mat-icon>home</mat-icon>
+    </button>
+    <button mat-icon-button aria-label="Example icon-button with heart icon">
+      <mat-icon>favorite</mat-icon>
+    </button>
+    <button mat-icon-button aria-label="Example icon-button with share icon">
+      <mat-icon>share</mat-icon>
+    </button>
+  </mat-toolbar>
+
+  <div class="main-container">
+    <mat-sidenav-container class="sidenav-container" autosize>
+      <mat-sidenav role="navigation" mode="side" [opened]="sideOpened()">
+        <layout-side-nav [isExpanded]="sideOpened()"></layout-side-nav>
+      </mat-sidenav>
+
+      <mat-sidenav-content>
+        <main>
+          <ng-content></ng-content>
+        </main>
+      </mat-sidenav-content>
+
+    </mat-sidenav-container>
+  </div>
+</div>

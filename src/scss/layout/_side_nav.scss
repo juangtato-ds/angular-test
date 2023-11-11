@@ -1,0 +1,53 @@
+@use "sass:map";
+
+.sidenav-layout {
+  display: flex;
+  flex-flow: column;
+
+  height: 100%;
+  width: 100%;
+
+  .sidenav-toolbar {
+    .spacer {
+      flex: 1 1 auto;
+    }
+  }
+  .main-container {
+    position: relative;
+    .sidenav-container {
+      .sidenav-item {
+        * {
+          vertical-align: middle;
+          & + .label {
+            margin-left: 0.5em;
+          }
+        }
+
+        &[href] {
+          cursor: pointer;
+        }
+
+        &.active-link {
+          background-color: map.get($theme-primary, 50) !important;
+          cursor: inherit;
+        }
+
+        & + mat-list-item {
+          border-top: 1px solid gray;
+        }
+      }
+
+      mat-sidenav-content {
+        margin-left: 57px;
+      }
+    }
+
+    main {
+      box-sizing: border-box;
+      padding: 18px;
+      min-height: calc(100vh - 64px);
+    }
+  }
+
+
+}

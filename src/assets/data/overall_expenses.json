@@ -1,0 +1,3248 @@
+[
+    {
+        "name": "John",
+        "surname": "Doe",
+        "billList": [
+            {
+                "category": "leisure",
+                "concept": "aHoYI8SbRLe0 jaOujZhp oeSXYlT",
+                "date": "2023-02-10",
+                "amount": 10
+            },
+            {
+                "category": "leisure",
+                "concept": "yo6OAMnWT0WVuQM:MpCcCc- 7x3tJlCO DQz-UH6rV iZ",
+                "date": "2023-06-06",
+                "amount": 115
+            },
+            {
+                "category": "tax",
+                "concept": " lmbl4N0  Rzpy97BR2k6iUYM:JV HzlgBONiZkmFe_oJsx",
+                "date": "2023-09-20",
+                "amount": 139
+            },
+            {
+                "category": "tax",
+                "concept": "_ykmaci6e ooKk Tg72c NKjS_JNpn HYVW  9XNeTl",
+                "date": "2023-03-17",
+                "amount": 54
+            },
+            {
+                "category": "home",
+                "concept": "4 E clCnq 8T ZLx_BJWgHl",
+                "date": "2023-11-05",
+                "amount": 118
+            },
+            {
+                "category": "leisure",
+                "concept": "Bo r 6LHSMubYtUWE1xTJ2_P OaVLms ",
+                "date": "2023-10-18",
+                "amount": 185
+            },
+            {
+                "category": "leisure",
+                "concept": "Qkw4r9XPcdf",
+                "date": "2023-03-20",
+                "amount": 43
+            },
+            {
+                "category": "food",
+                "concept": "30 yWXqhQv30DR 6:LVPqx 7 23QS:GrFjmQyflvSlwgU1",
+                "date": "2023-05-13",
+                "amount": 177
+            },
+            {
+                "category": "clothes",
+                "concept": "n OAhB:lJDKL RdkcuoAVdbV:Y",
+                "date": "2023-02-01",
+                "amount": 140
+            },
+            {
+                "category": "clothes",
+                "concept": "ItNWxZdrdBW8 loy DQv  nnb1diwX L2Xe 9_IyI",
+                "date": "2023-05-21",
+                "amount": 30
+            },
+            {
+                "category": "tax",
+                "concept": "Qrx :2 QlA x b55ZpOp A-a r1Kd8O",
+                "date": "2023-06-23",
+                "amount": 62
+            },
+            {
+                "category": "tax",
+                "concept": "ZwJVQg6 e5QXKU5ZGFfy",
+                "date": "2023-02-27",
+                "amount": 62
+            },
+            {
+                "category": "clothes",
+                "concept": "Q:d7w V1C 2fYiHLDv5RMP0 3",
+                "date": "2023-09-13",
+                "amount": 167
+            },
+            {
+                "category": "home",
+                "concept": "Ag 0UHJ 0   FxQWScVunbnYIZlTha9gy",
+                "date": "2023-05-09",
+                "amount": 198
+            },
+            {
+                "category": "leisure",
+                "concept": "85Vaw7XG_Pn-QYh0v7y7Ys _305q IGqm i9orG",
+                "date": "2023-09-04",
+                "amount": 140
+            },
+            {
+                "category": "clothes",
+                "concept": "ZpqMkE p7rGTg ",
+                "date": "2023-10-12",
+                "amount": 188
+            },
+            {
+                "category": "invoice",
+                "concept": " 6Z WV75 I9ITE n0 G-o:m  Y CEAODU7 X",
+                "date": "2023-05-02",
+                "amount": 172
+            },
+            {
+                "category": "leisure",
+                "concept": "J7N zSq3c0G09qivP0 tGG qdtl-I1I_GXw",
+                "date": "2023-09-13",
+                "amount": 198
+            },
+            {
+                "category": "tax",
+                "concept": " r uHfDFEvKPzN64I_ian_ hmdXAKbh Epwjap",
+                "date": "2023-09-11",
+                "amount": 191
+            },
+            {
+                "category": "invoice",
+                "concept": "kJC swKe5DV",
+                "date": "2023-07-26",
+                "amount": 108
+            },
+            {
+                "category": "invoice",
+                "concept": "DGiYnV KEJQaN Mtatm5Fum5 tSqQXp2V o",
+                "date": "2023-10-15",
+                "amount": 100
+            },
+            {
+                "category": "tax",
+                "concept": "IVGsvpKvzbTBE l 9Noc dfK  QOM nyXw",
+                "date": "2023-01-12",
+                "amount": 22
+            },
+            {
+                "category": "leisure",
+                "concept": "0  G7B7Df3P-D_V2uc",
+                "date": "2023-07-02",
+                "amount": 63
+            },
+            {
+                "category": "food",
+                "concept": "6 k  22_xyNKFxLL7xT YkJ",
+                "date": "2023-10-23",
+                "amount": 39
+            },
+            {
+                "category": "clothes",
+                "concept": "5J6ZuRHglyJGZL vaJ-aQ:jf:- dRU6 g vdvq",
+                "date": "2023-07-17",
+                "amount": 46
+            },
+            {
+                "category": "clothes",
+                "concept": "GaT75TG3q U",
+                "date": "2023-06-14",
+                "amount": 70
+            },
+            {
+                "category": "tax",
+                "concept": "9eQ:fL2N2hbrXHObG",
+                "date": "2023-08-02",
+                "amount": 189
+            },
+            {
+                "category": "food",
+                "concept": "-U 7-M58 FLlz 2G6nWvOaW7QJFHXb27bZo5h:au",
+                "date": "2023-06-21",
+                "amount": 78
+            },
+            {
+                "category": "food",
+                "concept": "Eu3DQfS0h1gsv425 S4G",
+                "date": "2023-12-23",
+                "amount": 90
+            },
+            {
+                "category": "home",
+                "concept": "5 m8klC1JzK Bp- 3sNtnA6dU1vXwv",
+                "date": "2023-08-27",
+                "amount": 44
+            },
+            {
+                "category": "leisure",
+                "concept": "IAU izwS6csNWj-SRgfzG0f  HY",
+                "date": "2023-05-17",
+                "amount": 195
+            },
+            {
+                "category": "leisure",
+                "concept": "CY JTz-yQhbmjX Hp tmQTw-Ax",
+                "date": "2023-03-24",
+                "amount": 111
+            },
+            {
+                "category": "tax",
+                "concept": "Z8MywN gzoE 5mR4pXTjN",
+                "date": "2023-03-24",
+                "amount": 112
+            },
+            {
+                "category": "tax",
+                "concept": "5Zno8r1gbvls8Xh",
+                "date": "2023-10-02",
+                "amount": 34
+            },
+            {
+                "category": "clothes",
+                "concept": "pdC4SbG7ac6aTdFeRB2r5Bvg6W_onO:X",
+                "date": "2023-03-01",
+                "amount": 42
+            },
+            {
+                "category": "tax",
+                "concept": "vT_ wlD3: Jk AnaZMjR",
+                "date": "2023-03-25",
+                "amount": 182
+            },
+            {
+                "category": "food",
+                "concept": "cbhRxt5c  0",
+                "date": "2023-12-24",
+                "amount": 91
+            },
+            {
+                "category": "tax",
+                "concept": "1vwNt-0G-uN y Ug2 TepqB MkE6o8mt:nAVTg_xRKOS7q",
+                "date": "2023-07-13",
+                "amount": 147
+            },
+            {
+                "category": "clothes",
+                "concept": "LBwzZtlMqN Ii a vlv  -O7qW_",
+                "date": "2023-11-09",
+                "amount": 39
+            },
+            {
+                "category": "home",
+                "concept": "msESXV zxMNCtvN3SA- Ea3j",
+                "date": "2023-12-21",
+                "amount": 164
+            },
+            {
+                "category": "invoice",
+                "concept": "BJ4 K Bw:fSZHGH5  kLJ4",
+                "date": "2023-10-24",
+                "amount": 85
+            },
+            {
+                "category": "leisure",
+                "concept": "Ih:Fa x H-P Gw CtYI7f QddH",
+                "date": "2023-04-08",
+                "amount": 115
+            },
+            {
+                "category": "leisure",
+                "concept": "VfOVCu  w5:LB3x x3O:ftp:Q1TQfI",
+                "date": "2023-02-17",
+                "amount": 139
+            },
+            {
+                "category": "clothes",
+                "concept": "mMnG9O4SGCZ0 6 sO84aR6otQR ztKxADdAnBdl M0SIWxD N",
+                "date": "2023-12-26",
+                "amount": 13
+            },
+            {
+                "category": "leisure",
+                "concept": " MNo  vJs kg0NPsX 6AR0R3SKgQZ-TF4",
+                "date": "2023-09-12",
+                "amount": 193
+            },
+            {
+                "category": "tax",
+                "concept": "1k034bPdXEys OABqBV43-2Ix42bkQbWhwe",
+                "date": "2023-03-25",
+                "amount": 158
+            },
+            {
+                "category": "home",
+                "concept": "Hi r nLK mS9lFpG ",
+                "date": "2023-09-25",
+                "amount": 162
+            },
+            {
+                "category": "food",
+                "concept": "xQsV KCy4xu5-CQn:p HOr7 a87 WWLr-L XhOYLxfdoQaxE",
+                "date": "2023-10-25",
+                "amount": 148
+            },
+            {
+                "category": "leisure",
+                "concept": "J5SI bL9cj YZN jmB kRrFWPz3KSjp2WvoSF5Fq",
+                "date": "2023-06-27",
+                "amount": 195
+            },
+            {
+                "category": "food",
+                "concept": " 3euYF7mVAM6ZbIZW:W4yEU2E2Z 1G7MVOtxt4eXVHl8f",
+                "date": "2023-05-13",
+                "amount": 122
+            },
+            {
+                "category": "clothes",
+                "concept": "V-D20 JTho",
+                "date": "2023-07-15",
+                "amount": 94
+            },
+            {
+                "category": "tax",
+                "concept": " : N16xtz21SdYumg-uFDYJXL",
+                "date": "2023-10-17",
+                "amount": 191
+            },
+            {
+                "category": "food",
+                "concept": "DQKVXWHM UlBbdH t_Kq vbk6UndYp",
+                "date": "2023-04-11",
+                "amount": 57
+            },
+            {
+                "category": "clothes",
+                "concept": "pdlS7JFlTOWMMQT9mc2z  QADKN4v dCCMfxFeDM",
+                "date": "2023-01-12",
+                "amount": 92
+            },
+            {
+                "category": "clothes",
+                "concept": "oe75tfEyt5Bj2hfO",
+                "date": "2023-05-21",
+                "amount": 158
+            },
+            {
+                "category": "invoice",
+                "concept": "5 XTey v0mgZELKk3y_cfZ W ZL39iDO43 Bx _Wp",
+                "date": "2023-10-19",
+                "amount": 56
+            },
+            {
+                "category": "tax",
+                "concept": "XrW5SO9PQoOEY6c-4c",
+                "date": "2023-04-19",
+                "amount": 132
+            },
+            {
+                "category": "home",
+                "concept": "e9BGV n9aQ 9 mKCHVTNltDXw Rt43 pzPTR",
+                "date": "2023-09-25",
+                "amount": 27
+            },
+            {
+                "category": "tax",
+                "concept": "L65C PLoF1Hy87Ln4Is9BYW 5br ",
+                "date": "2023-08-24",
+                "amount": 52
+            },
+            {
+                "category": "leisure",
+                "concept": "a3uE8J9hW: AbOwdZZr OZvkau7cwJNf:ILIyIQCu",
+                "date": "2023-10-14",
+                "amount": 156
+            },
+            {
+                "category": "food",
+                "concept": "UKF  SY8i4JB0yUn j LX-nkVD0sn Z MP9NJNuY6dvH",
+                "date": "2023-01-14",
+                "amount": 157
+            },
+            {
+                "category": "home",
+                "concept": "GztGd5UrkQwlipdMQVklHEweSfk2cst  ",
+                "date": "2023-08-01",
+                "amount": 115
+            },
+            {
+                "category": "invoice",
+                "concept": "ERiAx2  G6 u_IREJ1 GRojvQ_Bg Ye4iB2:Kg-",
+                "date": "2023-06-25",
+                "amount": 55
+            },
+            {
+                "category": "clothes",
+                "concept": "V UKDbpvcWZL4 2xu9et4wm0BF0OWv",
+                "date": "2023-09-27",
+                "amount": 46
+            },
+            {
+                "category": "clothes",
+                "concept": "Q sB8Q4JuITl_szG7yuhY",
+                "date": "2023-02-02",
+                "amount": 71
+            },
+            {
+                "category": "clothes",
+                "concept": "EEFEpR3uq CkL gDRrwjw o9W0Y",
+                "date": "2023-12-06",
+                "amount": 69
+            },
+            {
+                "category": "home",
+                "concept": "-AjExlTi QO 1T9n8JN p8Y6N-w3HRO3gbTks-8MqLTXH HEw",
+                "date": "2023-11-06",
+                "amount": 85
+            },
+            {
+                "category": "leisure",
+                "concept": "bqUT9pypDPkASYFGaV-Q4T 1 0Ww6mMKpiok36UU",
+                "date": "2023-10-19",
+                "amount": 111
+            },
+            {
+                "category": "leisure",
+                "concept": "ncpUP X-ocj0 QttB1rbx4DH6DxWRFPQR1 m5NnsN 2exeO0",
+                "date": "2023-04-16",
+                "amount": 175
+            },
+            {
+                "category": "food",
+                "concept": "m UU8K5pMQYva sL7w_OYh s1KgI9JhLPRrZYBJ",
+                "date": "2023-01-08",
+                "amount": 74
+            },
+            {
+                "category": "tax",
+                "concept": "q dJvTjzZ2",
+                "date": "2023-10-02",
+                "amount": 96
+            },
+            {
+                "category": "tax",
+                "concept": "WV92gDwf7EZ6 vl7YGcKcxA8h DM9IjDli j HyBLLRU",
+                "date": "2023-06-11",
+                "amount": 38
+            },
+            {
+                "category": "home",
+                "concept": "V5gBg AiXcY_zHiOCXNY4h24mTQnyM2C",
+                "date": "2023-05-19",
+                "amount": 81
+            },
+            {
+                "category": "leisure",
+                "concept": "x_ migvaLvYJc_OP",
+                "date": "2023-08-15",
+                "amount": 119
+            },
+            {
+                "category": "leisure",
+                "concept": " GUmdNK_oM 43LL7 McYwTnE83- 9",
+                "date": "2023-03-02",
+                "amount": 166
+            },
+            {
+                "category": "home",
+                "concept": "I XWb9K6q2SeS",
+                "date": "2023-01-10",
+                "amount": 71
+            },
+            {
+                "category": "home",
+                "concept": "q1o4A8:73wRSgVphk6q DnqQzYP9kDci4F",
+                "date": "2023-07-20",
+                "amount": 143
+            },
+            {
+                "category": "food",
+                "concept": "mKqVLD7v_kce k6   K-naiTOwrfV67  :hkW",
+                "date": "2023-04-19",
+                "amount": 45
+            },
+            {
+                "category": "leisure",
+                "concept": "b6L1  ydJdHIWCMPkNn 6PzVa BMM N b",
+                "date": "2023-03-26",
+                "amount": 87
+            },
+            {
+                "category": "home",
+                "concept": "nsHtcDN6V n8dWvzZ1Qxp 686ysH26: nv7Ul2GgWkmis:",
+                "date": "2023-04-13",
+                "amount": 136
+            },
+            {
+                "category": "home",
+                "concept": "Dwsi I mQBM7A-1VxW0NSwfSRoBXM YkBY",
+                "date": "2023-12-02",
+                "amount": 68
+            },
+            {
+                "category": "clothes",
+                "concept": "1-K k27ziZ 0owkX T u5Z-wC33GEm7J",
+                "date": "2023-03-22",
+                "amount": 14
+            },
+            {
+                "category": "clothes",
+                "concept": "hF-LlJqJEEmbLinR3ONAZhhKoh g2l1D 0R24jlhyj0mN",
+                "date": "2023-05-06",
+                "amount": 129
+            },
+            {
+                "category": "food",
+                "concept": "4miC2:gTbPqBfPm : UTgE7dhKRR7RfZq ",
+                "date": "2023-08-21",
+                "amount": 121
+            },
+            {
+                "category": "clothes",
+                "concept": "Aa 0aLoxWW1QyGIR",
+                "date": "2023-07-23",
+                "amount": 99
+            },
+            {
+                "category": "home",
+                "concept": "7aOoPW_Lzcp 1-6 977zaESeiSGuO5WasgR5t 8C",
+                "date": "2023-08-06",
+                "amount": 26
+            },
+            {
+                "category": "leisure",
+                "concept": "lmDz svwFKlBy",
+                "date": "2023-08-12",
+                "amount": 46
+            },
+            {
+                "category": "food",
+                "concept": "NDuh o miqkId7OeGMPYX::h U",
+                "date": "2023-02-17",
+                "amount": 96
+            },
+            {
+                "category": "tax",
+                "concept": "  dO3x03:ahzjH cZ3pDfM-PCg nfq96 xTOA",
+                "date": "2023-09-15",
+                "amount": 99
+            },
+            {
+                "category": "tax",
+                "concept": "b oZM9cchPO:lTEyii9J7lZRwn u8a1yRhjMec2:CMiTIUC",
+                "date": "2023-07-19",
+                "amount": 110
+            },
+            {
+                "category": "invoice",
+                "concept": "-w3-dRl3 Dq QN1P3 wWBsG9 2",
+                "date": "2023-08-09",
+                "amount": 29
+            },
+            {
+                "category": "leisure",
+                "concept": "9j FSq-iq4vQiT25r :suS EORCXAWXe7  axMfErm",
+                "date": "2023-03-06",
+                "amount": 112
+            },
+            {
+                "category": "clothes",
+                "concept": "dtg5eSx8pMeoK",
+                "date": "2023-09-01",
+                "amount": 91
+            },
+            {
+                "category": "tax",
+                "concept": "JS6xQxM1NPTPEXO : 1SfEslV",
+                "date": "2023-12-13",
+                "amount": 191
+            },
+            {
+                "category": "food",
+                "concept": "t kbRv5URSp",
+                "date": "2023-03-06",
+                "amount": 199
+            },
+            {
+                "category": "home",
+                "concept": "u3RAm_h 0EtjCpMpLjTnT803tlB3-Q5zlE6EOrE",
+                "date": "2023-12-17",
+                "amount": 120
+            },
+            {
+                "category": "home",
+                "concept": "cuz-A2L4 0 ",
+                "date": "2023-05-04",
+                "amount": 163
+            },
+            {
+                "category": "leisure",
+                "concept": " PuzOaidfi59X 9AzgS3i",
+                "date": "2023-07-08",
+                "amount": 80
+            },
+            {
+                "category": "food",
+                "concept": " m    HGliN A 4 sl_",
+                "date": "2023-10-04",
+                "amount": 95
+            },
+            {
+                "category": "leisure",
+                "concept": "cwr RlNs_L Hd6h8ELY1GEZEjKo Q bYOXkpFswhiZ u8 nSO",
+                "date": "2023-10-23",
+                "amount": 184
+            },
+            {
+                "category": "food",
+                "concept": " 7DUOIM9hFvVbobjeUs Mt",
+                "date": "2023-03-23",
+                "amount": 143
+            },
+            {
+                "category": "clothes",
+                "concept": "ec1PXGxToydNXw7X7I0",
+                "date": "2023-01-20",
+                "amount": 25
+            },
+            {
+                "category": "food",
+                "concept": "6DfENK5a5z",
+                "date": "2023-04-26",
+                "amount": 143
+            },
+            {
+                "category": "invoice",
+                "concept": "g_oBWkma5tuVAuE7g2JXtDM5QVbuyvyYEU  uFqm5",
+                "date": "2023-07-22",
+                "amount": 111
+            },
+            {
+                "category": "invoice",
+                "concept": "P2 hHDWzbtOSMc1faRYoa s_OEQ5S KxxpYJY   hHrR_",
+                "date": "2023-09-07",
+                "amount": 178
+            },
+            {
+                "category": "home",
+                "concept": "25xyGUnZbZles:HfgHk ymI3zV 8 WMfLFebs1l",
+                "date": "2023-06-18",
+                "amount": 59
+            },
+            {
+                "category": "food",
+                "concept": "n4fWb 8_Yyotf R0Yyxgkm",
+                "date": "2023-08-09",
+                "amount": 138
+            },
+            {
+                "category": "clothes",
+                "concept": "xFNwbCWjt T FOOCfsSDSuBZQSS vdK 2hW6l6HzA LFNY",
+                "date": "2023-10-11",
+                "amount": 80
+            },
+            {
+                "category": "home",
+                "concept": "1c:gbo O  d5Y8zr5xa",
+                "date": "2023-11-14",
+                "amount": 180
+            },
+            {
+                "category": "leisure",
+                "concept": "MUXjufJkg P89 MIBy9AlxEBl9Z16ydbahnOfPeMegx",
+                "date": "2023-11-02",
+                "amount": 17
+            },
+            {
+                "category": "invoice",
+                "concept": " BWAbxTkB  mHr ZsF LpZQSt",
+                "date": "2023-03-20",
+                "amount": 105
+            },
+            {
+                "category": "leisure",
+                "concept": "yJ  Bt4If6Z S LL:C ghHs qWYD4aEYPpH1Fu B  XsxO4_Q",
+                "date": "2023-07-21",
+                "amount": 112
+            },
+            {
+                "category": "food",
+                "concept": "K7iVApz:7LD371Bamu ag",
+                "date": "2023-04-08",
+                "amount": 11
+            },
+            {
+                "category": "clothes",
+                "concept": "W4eE5Xo gOKyWJDLn nHK3qD H9k0F iYtO3Q7es5q K2Nc0G",
+                "date": "2023-05-10",
+                "amount": 117
+            },
+            {
+                "category": "clothes",
+                "concept": "fus3XWG4tcu _6 pLxBBc_",
+                "date": "2023-04-03",
+                "amount": 109
+            },
+            {
+                "category": "home",
+                "concept": "rdGcWgnA Y -K_f REiJpX kcoUf",
+                "date": "2023-07-17",
+                "amount": 77
+            },
+            {
+                "category": "food",
+                "concept": "6jfDg4 8 FB7 b",
+                "date": "2023-08-02",
+                "amount": 131
+            },
+            {
+                "category": "food",
+                "concept": " -Xo ozI8YkJ vclVGTU ",
+                "date": "2023-06-15",
+                "amount": 135
+            },
+            {
+                "category": "clothes",
+                "concept": "8bjCWS 24lylUd6W",
+                "date": "2023-03-25",
+                "amount": 41
+            },
+            {
+                "category": "food",
+                "concept": "WojO: qhc-tpSkMRA __",
+                "date": "2023-01-04",
+                "amount": 71
+            },
+            {
+                "category": "food",
+                "concept": "8l-pT1Hmg4_D ",
+                "date": "2023-03-21",
+                "amount": 124
+            },
+            {
+                "category": "invoice",
+                "concept": "Hda6hJRynEct3Oej6YctT M4ZonAqxPnx hp cie ",
+                "date": "2023-02-09",
+                "amount": 113
+            },
+            {
+                "category": "food",
+                "concept": "xx6DU57yMpd  E",
+                "date": "2023-01-17",
+                "amount": 62
+            },
+            {
+                "category": "tax",
+                "concept": "B yO3FXSxf-D-fWq57EEgWi W YGjSummh c7",
+                "date": "2023-09-14",
+                "amount": 86
+            },
+            {
+                "category": "invoice",
+                "concept": "zmKjVN cuHsZ RF1o1qkj1b1xCjjJr",
+                "date": "2023-08-01",
+                "amount": 39
+            },
+            {
+                "category": "leisure",
+                "concept": "2TNE3XFcFr1bu_L_YDKxWE  6-C1aipybM",
+                "date": "2023-02-18",
+                "amount": 179
+            },
+            {
+                "category": "food",
+                "concept": "C t7FbmB 3DKca",
+                "date": "2023-05-08",
+                "amount": 185
+            },
+            {
+                "category": "clothes",
+                "concept": "tJD5FlePF6",
+                "date": "2023-05-21",
+                "amount": 70
+            },
+            {
+                "category": "clothes",
+                "concept": "LOB Pc N 8kV Z 2ODc00qqB8sB49T5R17T 1T :",
+                "date": "2023-10-21",
+                "amount": 165
+            },
+            {
+                "category": "leisure",
+                "concept": "Ua8gl6e CdF k-cyuhIIkz9jQwswcJIsEnK",
+                "date": "2023-04-22",
+                "amount": 188
+            },
+            {
+                "category": "invoice",
+                "concept": "pN WJJZ9 g  cNuLfV",
+                "date": "2023-06-06",
+                "amount": 98
+            },
+            {
+                "category": "home",
+                "concept": "BdsuXh s1D1aF5vk_TSj1rqJ 3jzpo:",
+                "date": "2023-04-08",
+                "amount": 26
+            },
+            {
+                "category": "food",
+                "concept": "18DVscyiFy6mf:3lvWltNs0ZHX  ",
+                "date": "2023-02-01",
+                "amount": 49
+            },
+            {
+                "category": "leisure",
+                "concept": "RbxambSrNf1w _G",
+                "date": "2023-12-26",
+                "amount": 171
+            },
+            {
+                "category": "home",
+                "concept": "J-p3kEdw1hFFGQz7VyAIq8 ps7nwAHkSPWwAFtT5BdtC mr ",
+                "date": "2023-01-21",
+                "amount": 52
+            },
+            {
+                "category": "food",
+                "concept": " mmXxBe_P z8TDOlam",
+                "date": "2023-10-08",
+                "amount": 175
+            },
+            {
+                "category": "leisure",
+                "concept": "Mh4UuoX  UEZFT I",
+                "date": "2023-05-02",
+                "amount": 11
+            },
+            {
+                "category": "food",
+                "concept": "wF1AEa4x te7KH2rdBR9rljgr93- mHw",
+                "date": "2023-12-03",
+                "amount": 193
+            },
+            {
+                "category": "tax",
+                "concept": "RT KtIc hJw  s oei9",
+                "date": "2023-12-22",
+                "amount": 129
+            },
+            {
+                "category": "clothes",
+                "concept": " Ovb3q:-I_XBSXGHVwYixMGHWKifk2nJ60X1ZG -LhS 3l ",
+                "date": "2023-04-11",
+                "amount": 148
+            },
+            {
+                "category": "home",
+                "concept": "tkHsuDJsaRPs6c  4kjE01H D:h Utk6_Lb-7 5 ",
+                "date": "2023-06-11",
+                "amount": 64
+            },
+            {
+                "category": "invoice",
+                "concept": "Dx2dU djwxM_N20 XT GJ:k5n_ aywpv ahD-_bQNU0 V0P",
+                "date": "2023-07-04",
+                "amount": 110
+            },
+            {
+                "category": "tax",
+                "concept": "MRq85jhs2kOrsqI  w8 IIpyPmOV4ijf9Y HHCbD",
+                "date": "2023-02-07",
+                "amount": 146
+            },
+            {
+                "category": "invoice",
+                "concept": "o8aZJINAS9h:",
+                "date": "2023-04-26",
+                "amount": 22
+            },
+            {
+                "category": "leisure",
+                "concept": " U pOkc3u1h:UHxK : dr3im:xoy",
+                "date": "2023-04-04",
+                "amount": 171
+            },
+            {
+                "category": "leisure",
+                "concept": "EWbr 587g9zB EJefr FqB a",
+                "date": "2023-09-24",
+                "amount": 189
+            },
+            {
+                "category": "tax",
+                "concept": "Y_7p36zA4r78P  D:AHSg",
+                "date": "2023-07-10",
+                "amount": 137
+            },
+            {
+                "category": "clothes",
+                "concept": "0e  9khwurE1 v2",
+                "date": "2023-02-22",
+                "amount": 15
+            },
+            {
+                "category": "home",
+                "concept": "oo G:dvlgcA-",
+                "date": "2023-12-16",
+                "amount": 13
+            },
+            {
+                "category": "invoice",
+                "concept": "VqYoFaIQhKCxnBwCwdV j- L05w5V9h_Zd",
+                "date": "2023-12-24",
+                "amount": 77
+            },
+            {
+                "category": "home",
+                "concept": "AIQrh5b mk5K3:ITV8S0sXwR 8I",
+                "date": "2023-11-02",
+                "amount": 22
+            }
+        ]
+    },
+    {
+        "name": "Jane",
+        "surname": "Doe",
+        "billList": [
+            {
+                "category": "tax",
+                "concept": "PCf0j k L7vmPh  att7",
+                "date": "2023-05-13",
+                "amount": 10
+            },
+            {
+                "category": "invoice",
+                "concept": "WrKNFEduZlYdm",
+                "date": "2023-08-16",
+                "amount": 93
+            },
+            {
+                "category": "leisure",
+                "concept": " oaRvauBQQin6 3 DKBB6c1:4r 5mdJra9q8xj4",
+                "date": "2023-07-04",
+                "amount": 157
+            },
+            {
+                "category": "clothes",
+                "concept": "riWVXWKhUg",
+                "date": "2023-08-10",
+                "amount": 132
+            },
+            {
+                "category": "home",
+                "concept": "vPE7Xvi ba  JvYBNM49EX6r36hj 4",
+                "date": "2023-12-11",
+                "amount": 43
+            },
+            {
+                "category": "food",
+                "concept": "b8wPb Hz  tbGR-oPV5P4aJkP1AST",
+                "date": "2023-01-24",
+                "amount": 122
+            },
+            {
+                "category": "tax",
+                "concept": "1F9kIxd5MnyqV fa- deP",
+                "date": "2023-11-26",
+                "amount": 129
+            },
+            {
+                "category": "clothes",
+                "concept": "DZbyw1IUDU F Lq-T_8R8dG zsqyov 068CRPWR",
+                "date": "2023-02-06",
+                "amount": 22
+            },
+            {
+                "category": "home",
+                "concept": "JqlfXbCCkFDxdZKw9XH",
+                "date": "2023-05-16",
+                "amount": 166
+            },
+            {
+                "category": "leisure",
+                "concept": "U0NC:O B8Z tmloWi AfpqeykHV eE ",
+                "date": "2023-07-07",
+                "amount": 134
+            },
+            {
+                "category": "leisure",
+                "concept": "SOgJvm7VJ:7zNVY",
+                "date": "2023-09-18",
+                "amount": 128
+            },
+            {
+                "category": "invoice",
+                "concept": "si 28WJzs-165Z_n2 Kh B2h  NR64C  UUH2csTUaANx6gK",
+                "date": "2023-10-27",
+                "amount": 97
+            },
+            {
+                "category": "clothes",
+                "concept": "cQ hTBcEYLhs9QJ6 qq1KWIyG:dx 6AND dyI",
+                "date": "2023-05-11",
+                "amount": 49
+            },
+            {
+                "category": "tax",
+                "concept": "6vl IbUMXIiJFh  A3Jr7U0X: DSdm3M0EVJ_fHbc",
+                "date": "2023-08-22",
+                "amount": 37
+            },
+            {
+                "category": "leisure",
+                "concept": " oVDGT4YKUBz5TX34 Ll",
+                "date": "2023-08-14",
+                "amount": 94
+            },
+            {
+                "category": "home",
+                "concept": "DvGZ-oUVZ9zNz Q2ue T3fwnSIHcov0mB3:",
+                "date": "2023-10-09",
+                "amount": 143
+            },
+            {
+                "category": "tax",
+                "concept": "-hILoC  bn8bP6:PY  KJLxBFN-Jii7pyr M jaieg_9MsL3",
+                "date": "2023-01-09",
+                "amount": 135
+            },
+            {
+                "category": "food",
+                "concept": "2qlIaex uVbIRtn-MWs lkccP6 Sf Pck_ZW:LE0k",
+                "date": "2023-10-06",
+                "amount": 87
+            },
+            {
+                "category": "invoice",
+                "concept": "9wJhkVJp2 mfpV9dSvqVhy9noVR1 HkUIqUM Xf-eYF",
+                "date": "2023-10-01",
+                "amount": 34
+            },
+            {
+                "category": "invoice",
+                "concept": "9lOkM1BRH U23PuLhtH-0 ",
+                "date": "2023-06-15",
+                "amount": 161
+            },
+            {
+                "category": "clothes",
+                "concept": "f aKn0 8 j5 D60bnJ  gU  xY cp MyA",
+                "date": "2023-02-17",
+                "amount": 162
+            },
+            {
+                "category": "clothes",
+                "concept": " LzJiFAzP Qsn6L3IFUa  9 4tKSR41",
+                "date": "2023-10-01",
+                "amount": 197
+            },
+            {
+                "category": "food",
+                "concept": "sH:pCZF54EeO3 qFrN6lxzek",
+                "date": "2023-08-03",
+                "amount": 160
+            },
+            {
+                "category": "home",
+                "concept": "U3E0f 2uCleALOs3uA bKn0-s gam4s9r",
+                "date": "2023-08-24",
+                "amount": 54
+            },
+            {
+                "category": "leisure",
+                "concept": "35UA0gFG5qLRE- 7i wzw0F pAQhAlfiHLPOD CY  ",
+                "date": "2023-01-24",
+                "amount": 19
+            },
+            {
+                "category": "invoice",
+                "concept": "s2C_r hr:JZv",
+                "date": "2023-02-17",
+                "amount": 134
+            },
+            {
+                "category": "food",
+                "concept": "9ev  jtH302os Yl ",
+                "date": "2023-10-22",
+                "amount": 104
+            },
+            {
+                "category": "invoice",
+                "concept": " 8uGNc IL S7k_:BKg",
+                "date": "2023-02-24",
+                "amount": 24
+            },
+            {
+                "category": "tax",
+                "concept": "1oSby8PCO4BNduTgi0a Ko2 HG-Pagz  W01T",
+                "date": "2023-04-16",
+                "amount": 66
+            },
+            {
+                "category": "clothes",
+                "concept": "mTVT29 YmMm8Ki H Dm 2_V8RxYO1WASYD d KBf",
+                "date": "2023-03-05",
+                "amount": 152
+            },
+            {
+                "category": "home",
+                "concept": "sOG6 L2l RvW:F02S33zuFahiiJpR:d2elVU lVV_5h",
+                "date": "2023-09-03",
+                "amount": 125
+            },
+            {
+                "category": "clothes",
+                "concept": " mQmeq5753eCTWm JlesEQ 34dWjC0 GyUd GNQ- PDQ",
+                "date": "2023-09-20",
+                "amount": 188
+            },
+            {
+                "category": "home",
+                "concept": "fAuQywShphF50Cg-iIio pX VwT:LTp dQQxx FUn J2VOGK:",
+                "date": "2023-08-11",
+                "amount": 156
+            },
+            {
+                "category": "invoice",
+                "concept": "kcIlIE DbNlp6N YxUF",
+                "date": "2023-03-15",
+                "amount": 199
+            },
+            {
+                "category": "clothes",
+                "concept": "jaEGHvtR6HawX JoyL g1_i69LGxYSlAIP3qm8kc",
+                "date": "2023-10-08",
+                "amount": 112
+            },
+            {
+                "category": "leisure",
+                "concept": "5yiq2MoXh8a9dm y s6qPrDVMc0S tisP_Q A",
+                "date": "2023-02-22",
+                "amount": 33
+            },
+            {
+                "category": "food",
+                "concept": "vBtb09 J7gzms91SQq:2 MkkZTG27 w",
+                "date": "2023-01-22",
+                "amount": 77
+            },
+            {
+                "category": "food",
+                "concept": "hFFpkV7M8spl 6Yy:mUrxUe4 9spHX_zS  ggXvI-Z",
+                "date": "2023-08-04",
+                "amount": 71
+            },
+            {
+                "category": "clothes",
+                "concept": "q vD5G32_6VFSVBtF_9m-",
+                "date": "2023-01-04",
+                "amount": 60
+            },
+            {
+                "category": "food",
+                "concept": "j3i7CCZe27xC8 aN kLu9sFROeGp0OSu1_5",
+                "date": "2023-11-03",
+                "amount": 122
+            },
+            {
+                "category": "invoice",
+                "concept": "jR K-sjA V nV  G N0vybX pxAWbWilzV5",
+                "date": "2023-09-10",
+                "amount": 109
+            },
+            {
+                "category": "tax",
+                "concept": "B RPHJ o7_k ",
+                "date": "2023-01-17",
+                "amount": 37
+            },
+            {
+                "category": "home",
+                "concept": " XF1Y3sW VGM: 1O mhsBlSgrTZ",
+                "date": "2023-07-19",
+                "amount": 182
+            },
+            {
+                "category": "leisure",
+                "concept": "9BltyCuiCN 6d20wp9EU4-F1",
+                "date": "2023-10-12",
+                "amount": 10
+            },
+            {
+                "category": "food",
+                "concept": "9DSsPED2vr7YHf_z3w",
+                "date": "2023-03-08",
+                "amount": 156
+            },
+            {
+                "category": "home",
+                "concept": "p s 9P kd l6_dhibZPqM-5D1EDExjQwZ TBq5BpGu",
+                "date": "2023-03-20",
+                "amount": 36
+            },
+            {
+                "category": "home",
+                "concept": "CKXxWsSajhp_mzno tEYB",
+                "date": "2023-06-21",
+                "amount": 139
+            },
+            {
+                "category": "invoice",
+                "concept": "uTyBDYC 6you2SkgLQcIZa8vH:DLQR  ",
+                "date": "2023-07-08",
+                "amount": 11
+            },
+            {
+                "category": "invoice",
+                "concept": " m6BeH:tWRiDZzgyetNe6-A8MyTzO4jHNgDN9qvkS",
+                "date": "2023-01-22",
+                "amount": 117
+            },
+            {
+                "category": "home",
+                "concept": "uut:3dGD8z  R  79G Sd",
+                "date": "2023-09-01",
+                "amount": 194
+            },
+            {
+                "category": "food",
+                "concept": "3gmf49bmiPUDYXHe9Ph6Vmz:J HIS",
+                "date": "2023-01-10",
+                "amount": 92
+            },
+            {
+                "category": "home",
+                "concept": "FpKrxonvYGK ml48qxl IrTcrV- j 5VMktX:bH   3",
+                "date": "2023-11-22",
+                "amount": 73
+            },
+            {
+                "category": "leisure",
+                "concept": "Nz_ie_dA nEA zBo6FPxF4XeyGRrbE",
+                "date": "2023-07-22",
+                "amount": 154
+            },
+            {
+                "category": "invoice",
+                "concept": "x dpsXojBv3l8OI 9sgBXT6K6vSwxd11",
+                "date": "2023-02-01",
+                "amount": 195
+            },
+            {
+                "category": "leisure",
+                "concept": "7LS IQZGG-NX dWb-2ZEaQCMs sk7SRiDZ8:rp yoKd",
+                "date": "2023-10-07",
+                "amount": 83
+            },
+            {
+                "category": "leisure",
+                "concept": "JQ xLLE pmYIR2W3md GxgoC-Y0EylFWGYNz Z-9BI dYI",
+                "date": "2023-09-20",
+                "amount": 67
+            },
+            {
+                "category": "invoice",
+                "concept": "3tAXjDJ3Mic b87S0EdNCn 9dXfzIKeMtM9jkCv",
+                "date": "2023-10-19",
+                "amount": 155
+            },
+            {
+                "category": "tax",
+                "concept": "U9ol n X A4S InKFKcVKD rA",
+                "date": "2023-10-20",
+                "amount": 176
+            },
+            {
+                "category": "food",
+                "concept": ":jdtcSw3Uj pQ:2h5pRJLwTpCGvmjyPq_hvtAQv02VQB",
+                "date": "2023-03-21",
+                "amount": 98
+            },
+            {
+                "category": "home",
+                "concept": "6fGasK q zJdo FK 8Dbx  RYee 2MkGb-NMkMHbnK86Dd",
+                "date": "2023-12-21",
+                "amount": 121
+            },
+            {
+                "category": "clothes",
+                "concept": "TywBP_ QKZDXzayqM1J8DV_RY:f3j8Bnn",
+                "date": "2023-02-13",
+                "amount": 191
+            },
+            {
+                "category": "tax",
+                "concept": "Bij5Dh::k wCnl5Y7Rht s",
+                "date": "2023-07-13",
+                "amount": 42
+            },
+            {
+                "category": "invoice",
+                "concept": " gejpSy 5b2Wmzj5sbw8 IdKzN2xpmx4loKAeS WO",
+                "date": "2023-08-13",
+                "amount": 15
+            },
+            {
+                "category": "food",
+                "concept": "HSv AEP2CBK6E4OqNfbS3n",
+                "date": "2023-12-17",
+                "amount": 103
+            },
+            {
+                "category": "food",
+                "concept": "3prkfehrShbkbyG0icSR:d3",
+                "date": "2023-04-04",
+                "amount": 102
+            },
+            {
+                "category": "clothes",
+                "concept": "A-N  M O1IV_VrF_F4J5",
+                "date": "2023-10-25",
+                "amount": 92
+            },
+            {
+                "category": "tax",
+                "concept": "2 4VGtsBMr5I:xDQBjsPpRAHQ9cnw A",
+                "date": "2023-05-26",
+                "amount": 96
+            },
+            {
+                "category": "home",
+                "concept": "9 xbhzvfSh mjohzSKuYMHWk",
+                "date": "2023-09-10",
+                "amount": 45
+            },
+            {
+                "category": "food",
+                "concept": "OQLa uNDy-xn_zjnTt_O2 v2Uk",
+                "date": "2023-04-17",
+                "amount": 172
+            },
+            {
+                "category": "tax",
+                "concept": "mieOzi  u6vAq3aw45w42vQ1z",
+                "date": "2023-03-16",
+                "amount": 108
+            },
+            {
+                "category": "clothes",
+                "concept": "N1d-Iv l849Es Aj OH-TtVU",
+                "date": "2023-04-02",
+                "amount": 53
+            },
+            {
+                "category": "food",
+                "concept": "VZoNzl:l: BCfO:-gaWh3x",
+                "date": "2023-02-26",
+                "amount": 93
+            },
+            {
+                "category": "food",
+                "concept": "m    SETENWyBPT1JVyb5cdMgu_2s 5HcRB6z",
+                "date": "2023-02-08",
+                "amount": 32
+            },
+            {
+                "category": "tax",
+                "concept": "UQZh5v9op_XWGEi7  ",
+                "date": "2023-12-07",
+                "amount": 29
+            },
+            {
+                "category": "leisure",
+                "concept": "XLyUQxhnrgsWSDQDYr: wt8gO 48 6 H",
+                "date": "2023-09-18",
+                "amount": 156
+            },
+            {
+                "category": "tax",
+                "concept": "fyCNWh2CgCdqRRFUDG24Xhxb S0irkqFA7f",
+                "date": "2023-02-10",
+                "amount": 124
+            },
+            {
+                "category": "home",
+                "concept": "vasIgfA8vyrQP5nd5X sFY3-UN e5X1_jf4gV5 xll RB3L2U",
+                "date": "2023-11-08",
+                "amount": 139
+            },
+            {
+                "category": "clothes",
+                "concept": "tPQw9xBs8zoYt WYtwCWQ4N-LHqDc33p",
+                "date": "2023-05-17",
+                "amount": 113
+            },
+            {
+                "category": "tax",
+                "concept": "9QpL:4Ee85CDzJZVq :DxJQoM35DDQ3cbqB  ijR",
+                "date": "2023-02-20",
+                "amount": 103
+            },
+            {
+                "category": "home",
+                "concept": "Lj  G:hqbQ7es36-hV4y",
+                "date": "2023-07-08",
+                "amount": 184
+            },
+            {
+                "category": "leisure",
+                "concept": "kTfGH2CMHspLxKpWmHs8ALEZ52NGUeI2M",
+                "date": "2023-06-04",
+                "amount": 197
+            },
+            {
+                "category": "leisure",
+                "concept": " Q 5X1ls3dRWVzp6bpJO43Y irA",
+                "date": "2023-01-11",
+                "amount": 74
+            },
+            {
+                "category": "leisure",
+                "concept": "ahT:xkE 2 _1p-Ffx  W_QaqDi34cxPDL J3bPwXz Gk",
+                "date": "2023-07-21",
+                "amount": 125
+            },
+            {
+                "category": "home",
+                "concept": "pw R_bTgf : G",
+                "date": "2023-09-09",
+                "amount": 46
+            },
+            {
+                "category": "home",
+                "concept": "PVM4Nb9FT2:G3yJowFqQf sDu  0Eti6H-EBdDgx",
+                "date": "2023-01-14",
+                "amount": 123
+            },
+            {
+                "category": "tax",
+                "concept": "27sf 0 Ta4 A  BJS 8H0Ew VtVJKU8yO",
+                "date": "2023-07-10",
+                "amount": 148
+            },
+            {
+                "category": "food",
+                "concept": "_6z2fwSKFrWrYDVtw FhVh7VrsW Y ",
+                "date": "2023-03-23",
+                "amount": 118
+            },
+            {
+                "category": "clothes",
+                "concept": "q unrW_XfLZQHVVSdftykYq8",
+                "date": "2023-10-16",
+                "amount": 178
+            },
+            {
+                "category": "clothes",
+                "concept": "uuaNY: p98 6Bvf jZ6cWGkUwO F6Yl",
+                "date": "2023-11-22",
+                "amount": 55
+            },
+            {
+                "category": "leisure",
+                "concept": "gvhYfRv554W Tj9zf8b 3x C7uI:s",
+                "date": "2023-09-20",
+                "amount": 20
+            },
+            {
+                "category": "leisure",
+                "concept": "lMMSVHyW0T5HA0",
+                "date": "2023-12-02",
+                "amount": 95
+            },
+            {
+                "category": "tax",
+                "concept": " WfiUl :O yTCLEq:eUA5FS",
+                "date": "2023-08-06",
+                "amount": 191
+            },
+            {
+                "category": "invoice",
+                "concept": "nvxRW8uUV9V  ",
+                "date": "2023-01-05",
+                "amount": 159
+            },
+            {
+                "category": "clothes",
+                "concept": " T1:WKdLa3G C1wSnGQvS0TEULzqHjgT",
+                "date": "2023-05-08",
+                "amount": 137
+            },
+            {
+                "category": "leisure",
+                "concept": "JwqDeQBzGV9xr0k m4tM s53NEfzrsULlstit0",
+                "date": "2023-10-22",
+                "amount": 114
+            },
+            {
+                "category": "leisure",
+                "concept": "bR:GIHqmxH6b1WAh-P  bS",
+                "date": "2023-03-12",
+                "amount": 171
+            },
+            {
+                "category": "home",
+                "concept": "rW9lG:m z: itsVpkz6hzbMQjA nJkW90Bwbnfqz50",
+                "date": "2023-10-19",
+                "amount": 119
+            },
+            {
+                "category": "tax",
+                "concept": "hX9h9FRVA C K Xl4w:aj1OQJFmse6",
+                "date": "2023-12-01",
+                "amount": 60
+            },
+            {
+                "category": "invoice",
+                "concept": "utmUb0Acr yBxD hX3gp",
+                "date": "2023-02-06",
+                "amount": 28
+            },
+            {
+                "category": "leisure",
+                "concept": "BdFRevet3BH7LQE6 6Erb",
+                "date": "2023-08-17",
+                "amount": 51
+            },
+            {
+                "category": "clothes",
+                "concept": "avxln-ltsLDokzTIKEu",
+                "date": "2023-08-26",
+                "amount": 115
+            },
+            {
+                "category": "food",
+                "concept": "2DYskQEy E",
+                "date": "2023-10-10",
+                "amount": 24
+            },
+            {
+                "category": "home",
+                "concept": ":-j  W :hrb1",
+                "date": "2023-06-03",
+                "amount": 55
+            },
+            {
+                "category": "leisure",
+                "concept": "mqi1 djJ ssmkTq lrj5 ",
+                "date": "2023-05-26",
+                "amount": 50
+            },
+            {
+                "category": "home",
+                "concept": "Ge-gDpHaRMXdfHsbw",
+                "date": "2023-09-11",
+                "amount": 163
+            },
+            {
+                "category": "clothes",
+                "concept": "JTZWi8 KfU2 tAqo",
+                "date": "2023-03-25",
+                "amount": 142
+            },
+            {
+                "category": "home",
+                "concept": "h0Us5 BfaLve8zdDofieuUzfceLOvf696iY9E9Uvj_ ",
+                "date": "2023-11-17",
+                "amount": 36
+            },
+            {
+                "category": "tax",
+                "concept": "PpCk8kETirzIuKxtv1GdM ",
+                "date": "2023-12-26",
+                "amount": 199
+            },
+            {
+                "category": "leisure",
+                "concept": "cVC:ig3XX2eosvFAWBavSB0cAbl2sJaNF",
+                "date": "2023-10-11",
+                "amount": 69
+            },
+            {
+                "category": "clothes",
+                "concept": "g  FfMSo  UrIdyK0QsJxJB7dC",
+                "date": "2023-07-22",
+                "amount": 112
+            },
+            {
+                "category": "food",
+                "concept": "M o5sbI sVZm -MijIv3M1 ",
+                "date": "2023-04-23",
+                "amount": 13
+            },
+            {
+                "category": "home",
+                "concept": "J8DMK  zmipgiNmUg95J",
+                "date": "2023-03-21",
+                "amount": 45
+            },
+            {
+                "category": "leisure",
+                "concept": "f nLp tDe:h64Y5iHKZf  IAW5tk K25J ",
+                "date": "2023-01-17",
+                "amount": 95
+            },
+            {
+                "category": "food",
+                "concept": "RvLvu Yzm43XTcO RteRwi H-O",
+                "date": "2023-10-06",
+                "amount": 67
+            },
+            {
+                "category": "invoice",
+                "concept": "rN0k6y_V_ zSK 8Z-coEe-OXxgv ",
+                "date": "2023-11-08",
+                "amount": 48
+            },
+            {
+                "category": "tax",
+                "concept": "h  2krfl4LtxgJ 0 PXV7YUs",
+                "date": "2023-11-20",
+                "amount": 106
+            },
+            {
+                "category": "tax",
+                "concept": "6_rncwwow2T96Dl tmqMNvuCTxP_:n WC5QI  SOACS",
+                "date": "2023-02-22",
+                "amount": 41
+            },
+            {
+                "category": "clothes",
+                "concept": "kky9H Lo6M -rp Lw:AVk9TJBh 0 XL19xVJ95IxjIFvyX0w ",
+                "date": "2023-01-13",
+                "amount": 79
+            },
+            {
+                "category": "food",
+                "concept": "V9j _THYZ fQBsY5",
+                "date": "2023-05-09",
+                "amount": 57
+            },
+            {
+                "category": "invoice",
+                "concept": "eulr4SCu CNI_6weq d_U9l5S",
+                "date": "2023-11-03",
+                "amount": 49
+            },
+            {
+                "category": "tax",
+                "concept": "h4sjZoAPxC  Fs:qmCR_ W kCW74_NBxH",
+                "date": "2023-03-01",
+                "amount": 190
+            },
+            {
+                "category": "home",
+                "concept": "IaNZ wiTRaQ slV7Ft48EO c",
+                "date": "2023-05-06",
+                "amount": 94
+            },
+            {
+                "category": "home",
+                "concept": " W_R CXh38-geF1A sJnT8q  iy iu-1NOkDG7H6STHDyG0r",
+                "date": "2023-08-05",
+                "amount": 38
+            },
+            {
+                "category": "food",
+                "concept": "_P2e z_a9Izt rQQa8jbDc OUxTdx q",
+                "date": "2023-04-23",
+                "amount": 11
+            },
+            {
+                "category": "clothes",
+                "concept": "FPnWXZTZKV2gsv O-UtC",
+                "date": "2023-12-01",
+                "amount": 164
+            },
+            {
+                "category": "tax",
+                "concept": "JMtPol8E65TqST D",
+                "date": "2023-10-08",
+                "amount": 72
+            },
+            {
+                "category": "invoice",
+                "concept": "5jmq Nim T0_2cmUUwBm7paF6 oKB2UV8R7Cw -Fh0 4 ",
+                "date": "2023-03-05",
+                "amount": 89
+            },
+            {
+                "category": "clothes",
+                "concept": "jx0I:ZJ5BSHh7 _ Av2Bh1xdwn3l3gD y9cx9u-A",
+                "date": "2023-06-21",
+                "amount": 188
+            },
+            {
+                "category": "home",
+                "concept": "u_f: H LprI5:U Fq-YiUz6sr",
+                "date": "2023-08-01",
+                "amount": 124
+            },
+            {
+                "category": "leisure",
+                "concept": "_  Dh2JJ4Qs pTjk1AP",
+                "date": "2023-06-06",
+                "amount": 87
+            },
+            {
+                "category": "leisure",
+                "concept": "aQR39S mm7 t Q0kGX1 4Imu Z",
+                "date": "2023-08-13",
+                "amount": 184
+            },
+            {
+                "category": "food",
+                "concept": "  uV_WDvo5O3twTVgw nwWtA8t1uI 3 hj-- eM",
+                "date": "2023-12-12",
+                "amount": 18
+            },
+            {
+                "category": "home",
+                "concept": "Ph5Za3 K5w Qp _t3VzV9 WNKb ",
+                "date": "2023-11-06",
+                "amount": 88
+            },
+            {
+                "category": "invoice",
+                "concept": "4dubW id9 a t3Re6 3H Fz35Y",
+                "date": "2023-02-25",
+                "amount": 159
+            },
+            {
+                "category": "invoice",
+                "concept": "dWAMtR-IfMe5N7i-eVq VZkgNxHCG7 GO",
+                "date": "2023-03-24",
+                "amount": 166
+            },
+            {
+                "category": "tax",
+                "concept": "G0smIQUr7r",
+                "date": "2023-09-18",
+                "amount": 193
+            },
+            {
+                "category": "home",
+                "concept": "gV8N8MigQgv9VOaV-Sq4qQQr3uk0JDMcs",
+                "date": "2023-02-03",
+                "amount": 37
+            },
+            {
+                "category": "food",
+                "concept": "b V jBc-  eXxAsGXa- gMpX2JiyY uBb5R AUCph  SZcd",
+                "date": "2023-05-10",
+                "amount": 31
+            },
+            {
+                "category": "clothes",
+                "concept": "Ef  cYTVYZ yx-J3qA Xmb53pdk1WOp aZj eM",
+                "date": "2023-06-02",
+                "amount": 183
+            },
+            {
+                "category": "food",
+                "concept": "35wen gN K_9 WA1 Wi9veYBgs lv: BhIan VIi",
+                "date": "2023-10-09",
+                "amount": 72
+            },
+            {
+                "category": "tax",
+                "concept": "c _eASaENB0hfsG_vxrlD4usEd",
+                "date": "2023-08-25",
+                "amount": 139
+            },
+            {
+                "category": "food",
+                "concept": "ZeK7:AD gdvz_:EvEwVIlQF1",
+                "date": "2023-02-13",
+                "amount": 44
+            },
+            {
+                "category": "clothes",
+                "concept": "qVw0Kra:I tlZjh dZwEu u-sZSmN LYsJ l jiftpY 8 4",
+                "date": "2023-01-23",
+                "amount": 196
+            },
+            {
+                "category": "home",
+                "concept": "dFA c2 OgyF-rbSk6Mkba-yG -99ioxx:seryxVCitUf",
+                "date": "2023-07-23",
+                "amount": 114
+            },
+            {
+                "category": "home",
+                "concept": "YJOux0KVf tz0 ",
+                "date": "2023-04-04",
+                "amount": 188
+            },
+            {
+                "category": "clothes",
+                "concept": "Ha_SH  - pV73NfJWbz1w34 Q",
+                "date": "2023-10-10",
+                "amount": 111
+            },
+            {
+                "category": "home",
+                "concept": "uWqc AyZ_bqSQV4CfErBk ",
+                "date": "2023-11-04",
+                "amount": 21
+            },
+            {
+                "category": "leisure",
+                "concept": "yq1F21 Ol8P3 39 UJuG9G wvcazZ7AzgsK0YPSMPT",
+                "date": "2023-09-15",
+                "amount": 29
+            },
+            {
+                "category": "tax",
+                "concept": "3su9jCIuq8pQVb-B",
+                "date": "2023-01-04",
+                "amount": 142
+            },
+            {
+                "category": "tax",
+                "concept": "yBe_ptxl TBNV5MHOO_WlEC",
+                "date": "2023-12-09",
+                "amount": 186
+            },
+            {
+                "category": "invoice",
+                "concept": "oW8gr1F7Z KcF9G qj-vA4ELeNlZJjg7ZSsfS6w",
+                "date": "2023-04-22",
+                "amount": 112
+            },
+            {
+                "category": "invoice",
+                "concept": "Y_gqG10t2WcvuZNOTu0V:W:jA",
+                "date": "2023-01-23",
+                "amount": 66
+            },
+            {
+                "category": "leisure",
+                "concept": "ovF n7S N8nH6NfQo QQhfH5T of13",
+                "date": "2023-01-15",
+                "amount": 175
+            },
+            {
+                "category": "clothes",
+                "concept": "iOZVq x d L4 Wihzs am- G y  4ZmC",
+                "date": "2023-09-27",
+                "amount": 53
+            },
+            {
+                "category": "clothes",
+                "concept": "wGPM KmfVlx9  boIGB5AbrNdn4oeu4Zp _RXEnk A",
+                "date": "2023-05-15",
+                "amount": 171
+            },
+            {
+                "category": "home",
+                "concept": "c-ZIOV6q21lwtq56tx N wbJ11 HVrF  69IiEjv",
+                "date": "2023-01-05",
+                "amount": 34
+            },
+            {
+                "category": "tax",
+                "concept": "SwY 0Zbi1 ITeBAu4AW0IRJ",
+                "date": "2023-03-23",
+                "amount": 23
+            },
+            {
+                "category": "leisure",
+                "concept": "gz2:wwoBZqV a Le9IfW ",
+                "date": "2023-08-03",
+                "amount": 151
+            },
+            {
+                "category": "tax",
+                "concept": "gd1iYM:ahjFhM9MC9s ",
+                "date": "2023-07-11",
+                "amount": 64
+            },
+            {
+                "category": "leisure",
+                "concept": "Z   -0 6p7lcC WpzRtWvxE28ia46NlQuvc",
+                "date": "2023-10-16",
+                "amount": 102
+            },
+            {
+                "category": "food",
+                "concept": "RW1q5L-ieeYt2iJ5c8Kx",
+                "date": "2023-12-03",
+                "amount": 20
+            },
+            {
+                "category": "home",
+                "concept": "UNywtpCizFcAD8 BdTI4",
+                "date": "2023-08-15",
+                "amount": 82
+            },
+            {
+                "category": "food",
+                "concept": "TYU-AKmwx cMAah qMfi8UnUivEmku EMnFFw g0  -FIk",
+                "date": "2023-11-16",
+                "amount": 131
+            },
+            {
+                "category": "food",
+                "concept": "  ZVvl WxUQyjD07VM6- Yd",
+                "date": "2023-12-02",
+                "amount": 137
+            },
+            {
+                "category": "food",
+                "concept": "B9 1fhfn  0 4Rsizp0noa bzrdFap jERvE",
+                "date": "2023-01-06",
+                "amount": 96
+            },
+            {
+                "category": "tax",
+                "concept": "w:u ovJpxyvgsn6zJadS",
+                "date": "2023-04-23",
+                "amount": 69
+            },
+            {
+                "category": "invoice",
+                "concept": " : lw1VSG  i410GC5nwxj6:4YDjXi ",
+                "date": "2023-11-21",
+                "amount": 149
+            },
+            {
+                "category": "home",
+                "concept": "MFVTZE5ML ldK3HE fpB wA:",
+                "date": "2023-12-27",
+                "amount": 122
+            },
+            {
+                "category": "tax",
+                "concept": "gNB1 7sKPBC5uKm8 A2 yOU0-6 YrEC",
+                "date": "2023-09-02",
+                "amount": 150
+            },
+            {
+                "category": "invoice",
+                "concept": "fhPh9X4DP8vMSdQfHoqHtQ3hzzTEbrnS",
+                "date": "2023-06-08",
+                "amount": 22
+            },
+            {
+                "category": "food",
+                "concept": "NDvbSV WWVWSl8q6ceVFK ql4:gPe Mo IIZcq t",
+                "date": "2023-06-27",
+                "amount": 89
+            },
+            {
+                "category": "leisure",
+                "concept": " 3Sdnf8 8ZMYWBFK1vQNj VXGhBvNZFenYdNVIx",
+                "date": "2023-06-26",
+                "amount": 128
+            },
+            {
+                "category": "invoice",
+                "concept": "wLtmvC Sn7mNg HsByhhU  EA6LoVN5i4:5 wHl:bd YOk5r",
+                "date": "2023-01-02",
+                "amount": 110
+            },
+            {
+                "category": "food",
+                "concept": "gIhle6Adnc55tJsvCu JsBvllYp",
+                "date": "2023-07-23",
+                "amount": 84
+            },
+            {
+                "category": "tax",
+                "concept": "5z5jYXt:z2J_HpK7TNvZg-",
+                "date": "2023-06-16",
+                "amount": 53
+            },
+            {
+                "category": "home",
+                "concept": "kJ-N 6KgX 4Jut8Ry g5nP",
+                "date": "2023-05-21",
+                "amount": 26
+            },
+            {
+                "category": "food",
+                "concept": "PiVI0HpGYV  p4Rv_e6dVrHa_tjp",
+                "date": "2023-09-05",
+                "amount": 21
+            },
+            {
+                "category": "invoice",
+                "concept": "N6skGoM1_TTjKUL_uo3 O nxf ePS 2Bi3IXs6faE7B O Z 0",
+                "date": "2023-01-09",
+                "amount": 193
+            },
+            {
+                "category": "home",
+                "concept": "JMb5Ak rtR",
+                "date": "2023-01-11",
+                "amount": 105
+            },
+            {
+                "category": "clothes",
+                "concept": "Lbg6y6fz YP9",
+                "date": "2023-11-02",
+                "amount": 138
+            },
+            {
+                "category": "clothes",
+                "concept": "KG5tcP :3kddxT9R WAdf8DT-d32 N ERYTa 2Z",
+                "date": "2023-03-06",
+                "amount": 109
+            },
+            {
+                "category": "food",
+                "concept": "Z3Zf1BV9_ DZW- pj   MPzuLzincYY:Jrv3Yx53h fCyYC ",
+                "date": "2023-02-10",
+                "amount": 69
+            },
+            {
+                "category": "invoice",
+                "concept": "N  az liGfd9 svE luiNcyYSFQD T  -T",
+                "date": "2023-08-10",
+                "amount": 22
+            },
+            {
+                "category": "food",
+                "concept": "1hFWgSH h_:h",
+                "date": "2023-06-19",
+                "amount": 33
+            },
+            {
+                "category": "tax",
+                "concept": "bEJ2KQAugtML Ni lTh5fgbbPDl:qvG5se",
+                "date": "2023-05-11",
+                "amount": 84
+            },
+            {
+                "category": "clothes",
+                "concept": "j  vYj:o bzSLXHT8Xh2v 3",
+                "date": "2023-08-17",
+                "amount": 89
+            },
+            {
+                "category": "clothes",
+                "concept": " 9pNqaG1LZ2 Pe:crK ROy:s7p po4 J5",
+                "date": "2023-09-25",
+                "amount": 169
+            },
+            {
+                "category": "tax",
+                "concept": "lq1s7lmQ-U x2HDYDNO S99 cVH",
+                "date": "2023-06-15",
+                "amount": 17
+            },
+            {
+                "category": "tax",
+                "concept": "5yTo-tmvVRxB",
+                "date": "2023-07-27",
+                "amount": 185
+            },
+            {
+                "category": "leisure",
+                "concept": " uo_laBeVhCqr z 9LY  Fod8Qc8v8swz4GDTuHWKo3CgQ2",
+                "date": "2023-04-14",
+                "amount": 84
+            },
+            {
+                "category": "food",
+                "concept": "UOR 3 N215kq96_9vlYvTno7ap 54-uO",
+                "date": "2023-06-09",
+                "amount": 121
+            },
+            {
+                "category": "tax",
+                "concept": "wgdUFbm0qFIB:uBxBMdX:G01A45",
+                "date": "2023-07-20",
+                "amount": 154
+            },
+            {
+                "category": "tax",
+                "concept": "IaeKORrlzZi 4Tju vQMD_sLc6y :JEmyFc6e PRzn6Lf",
+                "date": "2023-04-07",
+                "amount": 123
+            },
+            {
+                "category": "invoice",
+                "concept": "3vP2a3z3trJb 4S D1x-",
+                "date": "2023-02-04",
+                "amount": 66
+            },
+            {
+                "category": "tax",
+                "concept": "36 w55cGR Qd899iGRqC gsW7IneOfJQ4j 1Q  RI",
+                "date": "2023-05-18",
+                "amount": 119
+            },
+            {
+                "category": "home",
+                "concept": "g_fvLA uPYSSZtA V4Tm9zYzkTwx5XZ",
+                "date": "2023-01-13",
+                "amount": 177
+            },
+            {
+                "category": "home",
+                "concept": "2b aVyZa  _",
+                "date": "2023-01-26",
+                "amount": 39
+            },
+            {
+                "category": "invoice",
+                "concept": "5 lkByBOGP8 i3h E LDl92 G q3l36-Rq5dqc2akMSt5X1g1",
+                "date": "2023-05-04",
+                "amount": 198
+            },
+            {
+                "category": "invoice",
+                "concept": "bsPJC1y5ODI rm9A50nsNDuxH FLJVfohwU:HbQ",
+                "date": "2023-09-03",
+                "amount": 143
+            },
+            {
+                "category": "food",
+                "concept": "IBO_Y_9ihRwQEhnmdfiU8",
+                "date": "2023-01-19",
+                "amount": 38
+            },
+            {
+                "category": "food",
+                "concept": "M8HZjU10nBXPVEJS2UiKOd4kTsDbEdJT0 SUVR- nKCe",
+                "date": "2023-03-10",
+                "amount": 117
+            },
+            {
+                "category": "clothes",
+                "concept": "iswP  2_vwMxl-fXWxo4S9AHqStsVWArK YXosk9wC:8d IB",
+                "date": "2023-12-06",
+                "amount": 112
+            },
+            {
+                "category": "food",
+                "concept": "i-gxi0UGg 0E3eAq9A",
+                "date": "2023-12-01",
+                "amount": 196
+            },
+            {
+                "category": "tax",
+                "concept": "aVdv3CrO -3FZCVyK6 ",
+                "date": "2023-07-26",
+                "amount": 42
+            },
+            {
+                "category": "food",
+                "concept": "5OYpFl TntP8fNAwBzHlFy2",
+                "date": "2023-03-22",
+                "amount": 110
+            },
+            {
+                "category": "invoice",
+                "concept": "l513w63TqU x:Y1G0FaVzjI 9IJyOOtM:Vd1yRZ",
+                "date": "2023-08-13",
+                "amount": 125
+            },
+            {
+                "category": "tax",
+                "concept": "dTh1Q OCznHyb1h lTC0PZkadUgjXNk  QhBH",
+                "date": "2023-07-23",
+                "amount": 74
+            },
+            {
+                "category": "home",
+                "concept": "Rui5UmMV2XvhLMn7hB ImoLhGV2T",
+                "date": "2023-04-09",
+                "amount": 113
+            },
+            {
+                "category": "invoice",
+                "concept": "kr4WHLQPgK Ug Il0uFcMK",
+                "date": "2023-01-04",
+                "amount": 114
+            },
+            {
+                "category": "leisure",
+                "concept": "B73mD61 p1 d  WZAt U0xzc8F7pZC_",
+                "date": "2023-02-18",
+                "amount": 146
+            },
+            {
+                "category": "home",
+                "concept": "k F  zMvbOtSLx 1Q_:B WPj8AMm 9lOO-: 8",
+                "date": "2023-09-08",
+                "amount": 184
+            },
+            {
+                "category": "clothes",
+                "concept": "Bn  F3: 3vmtZuj93JyUaa1 U",
+                "date": "2023-03-13",
+                "amount": 176
+            },
+            {
+                "category": "home",
+                "concept": "cFjkeIO2AO y 6m aYxfo  jYEVP TS  gcuPuzc-5",
+                "date": "2023-04-22",
+                "amount": 72
+            },
+            {
+                "category": "invoice",
+                "concept": "J yf6s:d fzdYTyJ3 bY2Wd3",
+                "date": "2023-11-27",
+                "amount": 190
+            },
+            {
+                "category": "clothes",
+                "concept": "0V4 c 0aSBK bVYsw2pQ NV HaTKAT",
+                "date": "2023-08-14",
+                "amount": 190
+            },
+            {
+                "category": "leisure",
+                "concept": "J G H1CUyF2tKd2 Rq:kRo  nHiV  Z:XS-hvAYCVMmxo ",
+                "date": "2023-12-14",
+                "amount": 11
+            },
+            {
+                "category": "home",
+                "concept": " nSweqUNdn",
+                "date": "2023-05-20",
+                "amount": 128
+            },
+            {
+                "category": "food",
+                "concept": "NfF W dlP aUHc",
+                "date": "2023-08-14",
+                "amount": 164
+            },
+            {
+                "category": "food",
+                "concept": "eys YlPsY: eg C5Cvyx",
+                "date": "2023-02-14",
+                "amount": 117
+            },
+            {
+                "category": "clothes",
+                "concept": "D1 FW Vuc Qx",
+                "date": "2023-11-04",
+                "amount": 12
+            },
+            {
+                "category": "home",
+                "concept": "rmgXB671J7yTS1aO27rEf  Mp_8BtJMoj 78Akz9u8ntH3C",
+                "date": "2023-03-11",
+                "amount": 23
+            },
+            {
+                "category": "leisure",
+                "concept": "  av1esB:FL2wnGz",
+                "date": "2023-03-21",
+                "amount": 91
+            },
+            {
+                "category": "tax",
+                "concept": "_myqI3_pvWBh8R3jb1l38D0La1aEWty8  pjGAJ9zU ",
+                "date": "2023-03-20",
+                "amount": 137
+            },
+            {
+                "category": "food",
+                "concept": "X HvtcTvUNrPQOV-sD",
+                "date": "2023-08-11",
+                "amount": 66
+            },
+            {
+                "category": "food",
+                "concept": " uV sCyH_0QE m__ v5p AlZZHmf Yzks V",
+                "date": "2023-02-26",
+                "amount": 105
+            },
+            {
+                "category": "clothes",
+                "concept": "-RE9UaW5O54a4QQ6",
+                "date": "2023-07-20",
+                "amount": 103
+            },
+            {
+                "category": "clothes",
+                "concept": "P SuZ7lT fsUUvUj Ss  Na0ovso 2WIDP2",
+                "date": "2023-09-11",
+                "amount": 153
+            },
+            {
+                "category": "food",
+                "concept": "D: I-wH t7-Nmi e hmGoTnn Z29VgKe PqB w",
+                "date": "2023-01-17",
+                "amount": 167
+            },
+            {
+                "category": "home",
+                "concept": "d0iNJWcHC1S7",
+                "date": "2023-08-22",
+                "amount": 141
+            },
+            {
+                "category": "leisure",
+                "concept": "-HSc Hs0gh59W ryJID19X:T5YT",
+                "date": "2023-10-07",
+                "amount": 98
+            },
+            {
+                "category": "leisure",
+                "concept": "BFJ vf z D6SyRbMj7sxvJGEH08F 96nj0 oJmpXkZdVcK",
+                "date": "2023-04-09",
+                "amount": 130
+            },
+            {
+                "category": "invoice",
+                "concept": "J-kIdv AjW0RVNYIDQ2qKCyUVw 5-QJh ykK_",
+                "date": "2023-09-15",
+                "amount": 10
+            },
+            {
+                "category": "tax",
+                "concept": "-c IhTr 1  uu I T7gxuCoiaJaUykbmYGPH VCJM5DQxTj ",
+                "date": "2023-08-21",
+                "amount": 170
+            },
+            {
+                "category": "food",
+                "concept": "0_ C I4:Sl44 XbEV",
+                "date": "2023-08-19",
+                "amount": 90
+            },
+            {
+                "category": "home",
+                "concept": " jUh5 Z6LiEJ8vDByjcclg xoc  YMPqRU5Th",
+                "date": "2023-10-09",
+                "amount": 22
+            },
+            {
+                "category": "home",
+                "concept": "A8hk_zJ  9hx2-",
+                "date": "2023-11-11",
+                "amount": 46
+            },
+            {
+                "category": "home",
+                "concept": "Wyaa8b8ona i_",
+                "date": "2023-02-03",
+                "amount": 78
+            },
+            {
+                "category": "tax",
+                "concept": " pWjO2Dd2qvdddrJO",
+                "date": "2023-01-05",
+                "amount": 139
+            },
+            {
+                "category": "home",
+                "concept": "o8ca-c V6 q6ePI9CA23tOsB NCIS 8r",
+                "date": "2023-12-02",
+                "amount": 181
+            },
+            {
+                "category": "invoice",
+                "concept": "0l mO5UM9KgdQ:d-fBby Zi1 jEkR4IBpriJm -QYze6zcU",
+                "date": "2023-02-23",
+                "amount": 193
+            },
+            {
+                "category": "leisure",
+                "concept": "J8VHNIqpj:CcPNWC",
+                "date": "2023-07-19",
+                "amount": 92
+            },
+            {
+                "category": "clothes",
+                "concept": "Zi3Ojp2dF  X PDAUh jF S",
+                "date": "2023-01-08",
+                "amount": 82
+            },
+            {
+                "category": "clothes",
+                "concept": "  N4VuGif7:1HC8j  Dfwxg  GzB2 2kh0PjB KNxF6Uk",
+                "date": "2023-01-18",
+                "amount": 133
+            },
+            {
+                "category": "clothes",
+                "concept": "2_h1t5FkXdSbi5q7x3 kZ h8iH-zW7U prmzKIB9",
+                "date": "2023-03-06",
+                "amount": 48
+            },
+            {
+                "category": "invoice",
+                "concept": "6BYn4HMtnNVl",
+                "date": "2023-10-19",
+                "amount": 136
+            },
+            {
+                "category": "home",
+                "concept": "p kd _xJO4Ae ek0I_4TeI",
+                "date": "2023-06-15",
+                "amount": 162
+            },
+            {
+                "category": "home",
+                "concept": "dK:NQRPu2 9aeh P0 u zZJ  m51_fN  8N",
+                "date": "2023-04-10",
+                "amount": 190
+            },
+            {
+                "category": "tax",
+                "concept": " _KooXP ddwYAf1S  fXjz5fzNe83GY 3dUc_Bhw",
+                "date": "2023-11-08",
+                "amount": 111
+            },
+            {
+                "category": "leisure",
+                "concept": "0S rr:fTv ar-lQ1SKLfnfUcR_F70yGqM",
+                "date": "2023-11-06",
+                "amount": 150
+            },
+            {
+                "category": "home",
+                "concept": "3kW8c Z1 k6nd90_A1i KgeBaecrvphXW2FpStm2lIUcyaW",
+                "date": "2023-04-26",
+                "amount": 155
+            },
+            {
+                "category": "invoice",
+                "concept": "vRA5OU38:9 jiwY-3BGZKeW2:jTcl6y:-3kovvIyVDYEa ",
+                "date": "2023-05-26",
+                "amount": 54
+            },
+            {
+                "category": "tax",
+                "concept": " JImJ  WfNzQt c506g",
+                "date": "2023-05-04",
+                "amount": 151
+            },
+            {
+                "category": "leisure",
+                "concept": ":a-XklETsx5I N",
+                "date": "2023-10-09",
+                "amount": 109
+            },
+            {
+                "category": "invoice",
+                "concept": "rvM7bbj CAYyJlhG7 H53WdhV E557YPR  vlWpMeO",
+                "date": "2023-01-17",
+                "amount": 38
+            },
+            {
+                "category": "invoice",
+                "concept": "1 10SyT0LKMGM  XukxfVMcIotxB4KT",
+                "date": "2023-10-04",
+                "amount": 36
+            },
+            {
+                "category": "leisure",
+                "concept": " 1ms3OD R95kznksD:Qj7L7:  mmPOhb XSm4g",
+                "date": "2023-05-11",
+                "amount": 167
+            },
+            {
+                "category": "home",
+                "concept": "3  AttwlvW",
+                "date": "2023-08-04",
+                "amount": 10
+            },
+            {
+                "category": "leisure",
+                "concept": "1G flLbbJMJAB D 9V9Si1uq1L ZqYLUWDF vVEC qg",
+                "date": "2023-11-27",
+                "amount": 15
+            },
+            {
+                "category": "home",
+                "concept": "HDd1VyMBFKurgwF6f_9dYbsvmem6 Oy ZDdDt",
+                "date": "2023-08-18",
+                "amount": 192
+            },
+            {
+                "category": "tax",
+                "concept": "cTi2b 3MsNi pfjjMayXZqfI4JU",
+                "date": "2023-04-09",
+                "amount": 49
+            },
+            {
+                "category": "leisure",
+                "concept": "d9n8-0:42Ol n j BiS_YfV agh1A kiplZTUqw",
+                "date": "2023-01-17",
+                "amount": 188
+            },
+            {
+                "category": "invoice",
+                "concept": "tiu - WBisn4VmNaet 2",
+                "date": "2023-11-06",
+                "amount": 108
+            },
+            {
+                "category": "clothes",
+                "concept": "ecE8bD7Vv s3",
+                "date": "2023-06-17",
+                "amount": 190
+            },
+            {
+                "category": "clothes",
+                "concept": " mfkcJ0L:Nf64xLj5 7  U_AonT 6S  X",
+                "date": "2023-03-24",
+                "amount": 96
+            },
+            {
+                "category": "home",
+                "concept": "hoiMo--eWL6:mmU CdLgASy  rR",
+                "date": "2023-09-22",
+                "amount": 122
+            },
+            {
+                "category": "home",
+                "concept": "VVhbZqxdjZZeQI C xo69 1y9 Q",
+                "date": "2023-12-04",
+                "amount": 148
+            },
+            {
+                "category": "leisure",
+                "concept": " d6M E49hq0fsYKQg49OKa_m ",
+                "date": "2023-03-26",
+                "amount": 190
+            },
+            {
+                "category": "clothes",
+                "concept": "43aZC9swFImSHcHd-TUp6  QH BYDTwnIW XAwhfvPCm7XZ",
+                "date": "2023-05-01",
+                "amount": 41
+            },
+            {
+                "category": "home",
+                "concept": "g3QDll1rIEp gmixy       8VvvRZ xO24",
+                "date": "2023-01-16",
+                "amount": 193
+            },
+            {
+                "category": "clothes",
+                "concept": "Jm2  J TkRoE U 3SbCAuCNGAROb- D: ob",
+                "date": "2023-06-24",
+                "amount": 117
+            },
+            {
+                "category": "clothes",
+                "concept": " NX:J8x6-58ra yS50fC 6gkR8JW fLba",
+                "date": "2023-04-27",
+                "amount": 85
+            },
+            {
+                "category": "tax",
+                "concept": "S u0g   Rg   TLqTr9Fy5 6n_xkw7FDi9ZXraLR6A9JeT",
+                "date": "2023-09-27",
+                "amount": 32
+            },
+            {
+                "category": "leisure",
+                "concept": "sYcbT1xtUYcEtrhoJQ:StGMubRg",
+                "date": "2023-06-08",
+                "amount": 110
+            },
+            {
+                "category": "invoice",
+                "concept": "wt ie2IbhZJ",
+                "date": "2023-01-23",
+                "amount": 74
+            },
+            {
+                "category": "invoice",
+                "concept": "JMH_cAWpVp 1oX_PyayE rlQiHzZ63-Gj",
+                "date": "2023-06-25",
+                "amount": 107
+            },
+            {
+                "category": "leisure",
+                "concept": "N  S eM7Ml7eAbQt uJ4oLpk7PsgcqTWr J fk:Gp0 MKwl",
+                "date": "2023-11-16",
+                "amount": 114
+            },
+            {
+                "category": "tax",
+                "concept": "A pofgZO i R9fQx7b9",
+                "date": "2023-01-27",
+                "amount": 81
+            },
+            {
+                "category": "invoice",
+                "concept": "_GCuY WP XiSp7CStmKdXz",
+                "date": "2023-02-18",
+                "amount": 76
+            },
+            {
+                "category": "food",
+                "concept": ":V P9GXZHh6VT42WrGwn QPHxS8 BoH94n5UKa m Qp6rex",
+                "date": "2023-08-22",
+                "amount": 73
+            },
+            {
+                "category": "clothes",
+                "concept": "0tX2DOTZrtYxx-t25a_ tdXnfbZx",
+                "date": "2023-12-03",
+                "amount": 48
+            },
+            {
+                "category": "clothes",
+                "concept": "ug130vO5Tclyj  THK:mtT IHUa M6m:6H:G71tMX38yg",
+                "date": "2023-10-18",
+                "amount": 137
+            },
+            {
+                "category": "invoice",
+                "concept": "RJAV 98 hQ-xHiphxdg g1wGXR DXc:gte8L iHYZT  ",
+                "date": "2023-07-17",
+                "amount": 54
+            },
+            {
+                "category": "clothes",
+                "concept": "cQ5fhrJo6Mvs ",
+                "date": "2023-04-14",
+                "amount": 56
+            },
+            {
+                "category": "leisure",
+                "concept": "z8xLJeg:_WPJRvINkq GCX2LZFv",
+                "date": "2023-04-14",
+                "amount": 183
+            }
+        ]
+    },
+    {
+        "name": "Fruit",
+        "surname": "Orange",
+        "billList": [
+            {
+                "category": "tax",
+                "concept": "FOxV9  sdwQrWw-qzRybRfR Er9c4lP 0K rShL1Nm 77J p",
+                "date": "2023-10-22",
+                "amount": 15
+            },
+            {
+                "category": "clothes",
+                "concept": "mZg qJbEsxYGpYnV8 gFcTEV",
+                "date": "2023-04-12",
+                "amount": 54
+            },
+            {
+                "category": "clothes",
+                "concept": " aJ5I7AyYCwQRY90OBS dlmWLUY8 :1Wf-vXXg-ovalXFB_",
+                "date": "2023-04-13",
+                "amount": 120
+            },
+            {
+                "category": "tax",
+                "concept": "b  wRkcn49id2IejG5_HJ4bRU0qJ7z_:DOIyq Yvy--6wL:",
+                "date": "2023-09-14",
+                "amount": 188
+            },
+            {
+                "category": "home",
+                "concept": "4Mw beRd Hxpew8HAVM 9mOe PZ9jonWWSA58clPqi5p5pO",
+                "date": "2023-10-22",
+                "amount": 186
+            },
+            {
+                "category": "food",
+                "concept": "1gCXLy15NC7Qe  fVBfBdjYx5Co ",
+                "date": "2023-01-27",
+                "amount": 81
+            },
+            {
+                "category": "invoice",
+                "concept": "uu0pU3BJJGpy",
+                "date": "2023-03-07",
+                "amount": 76
+            },
+            {
+                "category": "clothes",
+                "concept": "PR3cu Lw0kL wOYyAb QstXoIIy2 33pqECw ecS px",
+                "date": "2023-05-06",
+                "amount": 160
+            },
+            {
+                "category": "tax",
+                "concept": "d6hosC8m9 3vjY_lJWOzXOmYqERNSu AaARkP71",
+                "date": "2023-06-27",
+                "amount": 168
+            },
+            {
+                "category": "clothes",
+                "concept": "HRHXhhiC1  7 R  W Lk4uSjcIt0DvEjcTw3KFRmb8SekV2",
+                "date": "2023-04-25",
+                "amount": 71
+            },
+            {
+                "category": "invoice",
+                "concept": "Zjpw3OcU5t70:w  jSivgFEuLaUt Umh:2 90 uNN Yqwa",
+                "date": "2023-07-07",
+                "amount": 128
+            },
+            {
+                "category": "clothes",
+                "concept": "2Rd NjgQYhFst1 mv4nK 7XmY1_Na vCH0 TjRUywAq",
+                "date": "2023-10-11",
+                "amount": 98
+            },
+            {
+                "category": "leisure",
+                "concept": "0Eq2 SUZ6K9vyV33-",
+                "date": "2023-06-18",
+                "amount": 31
+            },
+            {
+                "category": "invoice",
+                "concept": "XGEP1P e21b oU Sj",
+                "date": "2023-06-10",
+                "amount": 130
+            },
+            {
+                "category": "tax",
+                "concept": " Nnqk_0ORhHFBRXs6a ",
+                "date": "2023-08-07",
+                "amount": 109
+            },
+            {
+                "category": "tax",
+                "concept": "oR07AEw95Xps: SInWKhy67QzinfXkER",
+                "date": "2023-03-15",
+                "amount": 186
+            },
+            {
+                "category": "invoice",
+                "concept": "NSnobT97SxiYaH",
+                "date": "2023-04-25",
+                "amount": 94
+            },
+            {
+                "category": "food",
+                "concept": " riZa rXhYyliQpgm YaJ w",
+                "date": "2023-08-05",
+                "amount": 120
+            },
+            {
+                "category": "tax",
+                "concept": "Yf6LJk8ox7c4HiWz:HSD-Q  JNZl bdFdNLzXyC6",
+                "date": "2023-07-25",
+                "amount": 115
+            },
+            {
+                "category": "tax",
+                "concept": "   57XTlFo p ic9-TUor_msB4aGFLYDZ_Wzn1:",
+                "date": "2023-02-02",
+                "amount": 184
+            },
+            {
+                "category": "home",
+                "concept": "yD5JtllJmZSza4DqB J",
+                "date": "2023-11-03",
+                "amount": 143
+            },
+            {
+                "category": "clothes",
+                "concept": "ayrW9:8F A3:cdjLIejaRnYIF  4ewD KG05-Z",
+                "date": "2023-10-05",
+                "amount": 38
+            },
+            {
+                "category": "clothes",
+                "concept": "i04NykxIbXAWbT",
+                "date": "2023-08-25",
+                "amount": 19
+            },
+            {
+                "category": "tax",
+                "concept": "AiWkwPFEjQHwMNOEEZY:YS Bw1XpZ1qM",
+                "date": "2023-05-24",
+                "amount": 79
+            },
+            {
+                "category": "tax",
+                "concept": "1m FdUB y5 I0-DAEl989HUt4f  e",
+                "date": "2023-06-18",
+                "amount": 55
+            },
+            {
+                "category": "invoice",
+                "concept": "ens 1 NQGH85t6a-eDEP  ",
+                "date": "2023-03-03",
+                "amount": 137
+            },
+            {
+                "category": "leisure",
+                "concept": "  cx-nCj_K Pc10hEiK1Y9Vo IuMKILZ",
+                "date": "2023-12-23",
+                "amount": 164
+            },
+            {
+                "category": "tax",
+                "concept": " rlzl6Q deG gS Uq2 celDi Yj",
+                "date": "2023-02-26",
+                "amount": 196
+            },
+            {
+                "category": "food",
+                "concept": "CKKi 9fB ETYyVjkDLxB SbX Nxi1JqkQOYsQrmd kElY Z0L",
+                "date": "2023-01-22",
+                "amount": 43
+            },
+            {
+                "category": "home",
+                "concept": "eC4Jl3JW41kDkPXXV Gz-0eZUy59TeejaiAb4pe",
+                "date": "2023-03-24",
+                "amount": 186
+            },
+            {
+                "category": "home",
+                "concept": "DgAQn iZjWFmuSFlHCTHkzB c h4jSz9un2e6",
+                "date": "2023-10-24",
+                "amount": 46
+            },
+            {
+                "category": "clothes",
+                "concept": "9vhD-mnvfE85IOC2 sOaG n RgCLdXyzYB-V: nPdfBFLZ",
+                "date": "2023-04-14",
+                "amount": 83
+            },
+            {
+                "category": "tax",
+                "concept": "jA8F32DZJPXox6EF4 3yb3_a_v:D0",
+                "date": "2023-01-18",
+                "amount": 53
+            },
+            {
+                "category": "clothes",
+                "concept": "mTJ4hwsX YQ_9Rzj-mQfA-",
+                "date": "2023-06-26",
+                "amount": 154
+            },
+            {
+                "category": "tax",
+                "concept": "SkuybC 1qgZhP7zAf:1 En T 7gWr4iyD bm",
+                "date": "2023-03-16",
+                "amount": 18
+            },
+            {
+                "category": "food",
+                "concept": "HJEsV5Z8jiPy4 6gNP F  YWui0Di qp -PtE2 pIzURfi",
+                "date": "2023-01-16",
+                "amount": 161
+            },
+            {
+                "category": "tax",
+                "concept": "rfrDW  e Rd:KL  r oPJ",
+                "date": "2023-09-13",
+                "amount": 155
+            },
+            {
+                "category": "leisure",
+                "concept": "X5pNH6VegY GMSNX2Vp rFm0ZsL9afB y",
+                "date": "2023-02-12",
+                "amount": 175
+            },
+            {
+                "category": "leisure",
+                "concept": "LPo63OQtgvXIL YW cb z yyAD",
+                "date": "2023-03-05",
+                "amount": 47
+            },
+            {
+                "category": "clothes",
+                "concept": "t g l2R x2LdBf z2n IL -nBxr7Q1vX  xvot u ",
+                "date": "2023-07-21",
+                "amount": 72
+            },
+            {
+                "category": "clothes",
+                "concept": ":XEOEaKXJnJQ x I lZZuuzB3mefx1qv",
+                "date": "2023-06-06",
+                "amount": 118
+            },
+            {
+                "category": "food",
+                "concept": "n2kSLlNGQjMDAXmy0xyd YZq lk 38xiXhT9s",
+                "date": "2023-12-12",
+                "amount": 193
+            },
+            {
+                "category": "home",
+                "concept": ":d1Lkch FhEA l DsBm7JqKvel:4y6:IckA",
+                "date": "2023-11-07",
+                "amount": 182
+            },
+            {
+                "category": "home",
+                "concept": " fIpP D xAd e2yr wp-ZwRes3UthhXIiu",
+                "date": "2023-04-08",
+                "amount": 39
+            },
+            {
+                "category": "food",
+                "concept": "0jSXG: rb3C_dH_wyqPCSlKIe N",
+                "date": "2023-11-02",
+                "amount": 173
+            },
+            {
+                "category": "food",
+                "concept": "IfV98o7 f OlvQ ol93cGf do ",
+                "date": "2023-01-06",
+                "amount": 126
+            },
+            {
+                "category": "clothes",
+                "concept": "p8l_qFETuo-QAb",
+                "date": "2023-12-02",
+                "amount": 55
+            },
+            {
+                "category": "food",
+                "concept": "GT VjpjYY4XkY   ",
+                "date": "2023-07-21",
+                "amount": 77
+            },
+            {
+                "category": "food",
+                "concept": "ljO5ag:Hok  Uo",
+                "date": "2023-04-14",
+                "amount": 77
+            },
+            {
+                "category": "tax",
+                "concept": "lL LNyP bOfxpeGc5dJXt-TMV2N ZkLPv pueMRCa  O i",
+                "date": "2023-06-02",
+                "amount": 109
+            },
+            {
+                "category": "leisure",
+                "concept": "Wucb8C6SKlozd5Us_-BlUc6vw964T7",
+                "date": "2023-11-15",
+                "amount": 198
+            },
+            {
+                "category": "clothes",
+                "concept": "z k -jiwAb1MLf XG hPjPoleyL8t n OfB a",
+                "date": "2023-10-25",
+                "amount": 105
+            },
+            {
+                "category": "tax",
+                "concept": "5 q4Y3: d  z",
+                "date": "2023-03-09",
+                "amount": 186
+            },
+            {
+                "category": "home",
+                "concept": "TdR76fP  dWiHb",
+                "date": "2023-10-21",
+                "amount": 42
+            },
+            {
+                "category": "clothes",
+                "concept": "aAxGkBW3xQU6",
+                "date": "2023-02-26",
+                "amount": 19
+            },
+            {
+                "category": "tax",
+                "concept": "GU YjyQhJT     gxeOm0V-ybNwumNXK  IkD -yf",
+                "date": "2023-11-17",
+                "amount": 150
+            },
+            {
+                "category": "food",
+                "concept": "J-SkkdEBUGUZ4KsBE5",
+                "date": "2023-06-15",
+                "amount": 84
+            },
+            {
+                "category": "food",
+                "concept": " osZ A DOiQkcU tl0DM3hbOQ HCtPxhPhc",
+                "date": "2023-03-18",
+                "amount": 152
+            },
+            {
+                "category": "tax",
+                "concept": "R L69Lu7LPWWnsCYoAK_7PQhssP",
+                "date": "2023-07-26",
+                "amount": 19
+            },
+            {
+                "category": "home",
+                "concept": "Jz:wdywNz2prFySdCfW gj5q",
+                "date": "2023-08-27",
+                "amount": 80
+            },
+            {
+                "category": "tax",
+                "concept": "J3aKSQ9SIS-5 hKrJq6MnhNtZ6S9 o",
+                "date": "2023-07-03",
+                "amount": 15
+            },
+            {
+                "category": "home",
+                "concept": " xDDyrWHzo :9q z ",
+                "date": "2023-07-03",
+                "amount": 105
+            },
+            {
+                "category": "leisure",
+                "concept": "Dz7yWs 7_aoZdkdNG 4l2HD5YfecVprImv74  w f1",
+                "date": "2023-11-07",
+                "amount": 65
+            },
+            {
+                "category": "tax",
+                "concept": "1UzLTW6XPbsf37z576IVf_BwMrOu 7HD3u",
+                "date": "2023-10-02",
+                "amount": 118
+            },
+            {
+                "category": "food",
+                "concept": "A-wEFVC6T B QGa",
+                "date": "2023-07-09",
+                "amount": 133
+            },
+            {
+                "category": "food",
+                "concept": "HIKqN6:ow:D-yrrdM81L7CKXXxct",
+                "date": "2023-04-26",
+                "amount": 148
+            },
+            {
+                "category": "leisure",
+                "concept": "  s5fzT5ase",
+                "date": "2023-12-24",
+                "amount": 80
+            },
+            {
+                "category": "invoice",
+                "concept": "cI0 cTlbQ04FxCowfZcDkV xkll rXg",
+                "date": "2023-06-26",
+                "amount": 57
+            },
+            {
+                "category": "leisure",
+                "concept": "B4gomBOngNE E9pD myrFhS i8XP ",
+                "date": "2023-05-15",
+                "amount": 53
+            },
+            {
+                "category": "invoice",
+                "concept": "Yp2LLZ:c  fAXpdgeB7 kwFij87 AvPM",
+                "date": "2023-03-24",
+                "amount": 21
+            },
+            {
+                "category": "clothes",
+                "concept": "qKEpQrDbaP 6aW",
+                "date": "2023-07-19",
+                "amount": 33
+            },
+            {
+                "category": "clothes",
+                "concept": "YAcAmbP4_8_Y",
+                "date": "2023-08-25",
+                "amount": 28
+            },
+            {
+                "category": "leisure",
+                "concept": "Kvw  8 Cyq aBdVj iy-3DJ tk-P5pva",
+                "date": "2023-06-16",
+                "amount": 22
+            },
+            {
+                "category": "leisure",
+                "concept": "t_WcAQR-g F5 MB:nLff w1Nz",
+                "date": "2023-06-02",
+                "amount": 30
+            },
+            {
+                "category": "home",
+                "concept": "cE eI_:j1KU1Qi 4DB   ",
+                "date": "2023-05-01",
+                "amount": 43
+            },
+            {
+                "category": "leisure",
+                "concept": "4L OE t3jX_ ci5 FKam W:nEB",
+                "date": "2023-07-09",
+                "amount": 13
+            },
+            {
+                "category": "tax",
+                "concept": "  92JuO p0 bzV sm0KIuZM9L80",
+                "date": "2023-06-21",
+                "amount": 52
+            },
+            {
+                "category": "tax",
+                "concept": "h0Q B3zlLSh Z Es S",
+                "date": "2023-01-15",
+                "amount": 160
+            },
+            {
+                "category": "tax",
+                "concept": "p 5fMzQI rsVO:F oItzS0s Slowd_A",
+                "date": "2023-07-04",
+                "amount": 147
+            },
+            {
+                "category": "tax",
+                "concept": "Qilk_K _ e uA",
+                "date": "2023-10-22",
+                "amount": 193
+            },
+            {
+                "category": "home",
+                "concept": " sy Yp K1M:xhc NiJQi- ::Z9nX9 K1MCXmF PC",
+                "date": "2023-12-25",
+                "amount": 155
+            },
+            {
+                "category": "invoice",
+                "concept": "GV wovCAHBdkbJVo-OZ",
+                "date": "2023-01-18",
+                "amount": 20
+            },
+            {
+                "category": "home",
+                "concept": "GAngK6U2bPHdrVwiwfKhakDUtgdaff RJK ZkvuxwlT",
+                "date": "2023-08-22",
+                "amount": 135
+            },
+            {
+                "category": "leisure",
+                "concept": "yYIk:MJ1uV2:NMCUP r2P RpSfQ24tHW  5",
+                "date": "2023-03-03",
+                "amount": 172
+            },
+            {
+                "category": "home",
+                "concept": "lWvyrHW5qcmBC9Zm FZYatxOvUhQn",
+                "date": "2023-06-03",
+                "amount": 99
+            },
+            {
+                "category": "clothes",
+                "concept": " 5b46co Q iPisWHAgRsvIle  _1RO",
+                "date": "2023-02-17",
+                "amount": 38
+            },
+            {
+                "category": "clothes",
+                "concept": "73 IGTJ j1zBMBn7",
+                "date": "2023-04-10",
+                "amount": 111
+            },
+            {
+                "category": "tax",
+                "concept": "D -:p n U8Ou0 mPgYPNZtZvZN",
+                "date": "2023-04-16",
+                "amount": 119
+            },
+            {
+                "category": "food",
+                "concept": "5DS-TbAFJMaY-poCD2utErfT Qr 4acRF_am6uEc  e",
+                "date": "2023-10-16",
+                "amount": 114
+            },
+            {
+                "category": "clothes",
+                "concept": "0W0a    9qYyERt  GF 8iUHtXWnNY",
+                "date": "2023-08-25",
+                "amount": 151
+            },
+            {
+                "category": "food",
+                "concept": " UVaFa7jvqUO ",
+                "date": "2023-01-11",
+                "amount": 130
+            },
+            {
+                "category": "invoice",
+                "concept": "qMGkGhOLRKt7TsaYRo 7xC t35ad x8d: xP2ALw s",
+                "date": "2023-10-16",
+                "amount": 146
+            },
+            {
+                "category": "invoice",
+                "concept": "bfJiEhW4JAPN5lJ_",
+                "date": "2023-04-17",
+                "amount": 69
+            },
+            {
+                "category": "clothes",
+                "concept": "3K0X8gQ9 LWUJ qqDE5Bq0LGrkz9",
+                "date": "2023-12-24",
+                "amount": 139
+            },
+            {
+                "category": "clothes",
+                "concept": "uy1Zy AU-k-4sXSZ1 ty  pmP2m 3  m6zayryXdopld",
+                "date": "2023-09-17",
+                "amount": 62
+            },
+            {
+                "category": "tax",
+                "concept": "  npJkHMjdM Etn-ASdjQCU  naC",
+                "date": "2023-02-04",
+                "amount": 160
+            },
+            {
+                "category": "invoice",
+                "concept": "Ok pykpu SQP7 L_8l66",
+                "date": "2023-08-02",
+                "amount": 134
+            },
+            {
+                "category": "invoice",
+                "concept": "lt 2iMXOJ G",
+                "date": "2023-06-09",
+                "amount": 157
+            },
+            {
+                "category": "food",
+                "concept": "UJwhBDdyKaQgChKyyPFNVycfahiaq3  mHtLEa5  25Oawl ",
+                "date": "2023-07-20",
+                "amount": 44
+            },
+            {
+                "category": "tax",
+                "concept": "G WFM SCB:Yq",
+                "date": "2023-11-04",
+                "amount": 126
+            },
+            {
+                "category": "tax",
+                "concept": "l9JNU:OdV7jZ4G 22x:Ys",
+                "date": "2023-09-02",
+                "amount": 110
+            },
+            {
+                "category": "home",
+                "concept": "ZFiPNz iiJqPLoFqOML-ABA2PpD HOqDGOGivL PuI 0l",
+                "date": "2023-06-04",
+                "amount": 108
+            },
+            {
+                "category": "tax",
+                "concept": "aMPGPGP crkHC0OeElUwETbP_RiwmgI U pcgtFMEk: Q  I7",
+                "date": "2023-12-27",
+                "amount": 121
+            }
+        ]
+    }
+]
